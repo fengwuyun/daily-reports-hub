@@ -1,0 +1,48 @@
+﻿date,name,type,price,platform,role,note,source
+2026-09-23,slop-grader,CLI 写作质检,开源免费,跨平台(CLI/Node),主推,自定义规则集评测文本质量、治 AI 腔；Windows 可跑,https://startupcorners.com/digest/product-digest-2026-09-22
+2026-09-23,Harbor,私有笔记第二大脑,买断/订阅(全量导出),全平台原生,主推,Evernote 替代、数据不锁死、反订阅陷阱,https://ustack.app/blogs/producthunt-daily-2026-09-20
+2026-09-23,WhaleRead,本地离线翻译,免费/买断,跨平台,备选,TXT/MD/EPUB 离线翻、文件不出本机；9/19 略超窗口,https://startupcorners.com/digest/product-digest-2026-09-19
+2026-09-24,GBrain,跨AI本地记忆层,自托管可选(本地md记忆),跨平台(云/自托管),主推,记忆即本地Markdown文件夹、可带走、多AI共享上下文；数据可自持,https://www.hunted.space/product/gbrain
+2026-09-24,Edyt,AI写作助手,未注明(双端免费/付费未明),Mac+Windows,主推,可改写其他应用选不中的文字(报错/PDF/只读框)；Windows原生可用,https://startupcorners.com/digest/product-digest-2026-09-23
+2026-09-24,Clueso MCP,对话式视频创作/剪辑,未注明,Web(跨平台),备选,470 upvotes日榜第一、MCP接Claude/ChatGPT；偏dev/tutorial视频、非本地,https://startupcorners.com/digest/product-digest-2026-09-23
+2026-09-25,Soup CLI,本地微调CLI,开源免费,跨平台(CLI/Rust),主推,4GB笔记本GPU微调8B LLM、数据不出机、零订阅；Windows可跑,https://www.producthunt.com/
+2026-09-25,jev-seo,SEO/GEO审计CLI,免费(无订阅),跨平台(CLI/Rust),主推,离线CLI查站点搜索/AI可见性、Windows可跑,https://www.producthunt.com/
+2026-09-25,Hookest,爆款视频hook素材库,未注明(Web/App),Web(跨平台),备选,病毒视频开头钩子库、投放/宣发找灵感；团队/收费未知,https://www.producthunt.com/
+2026-09-26,WhisperDesktop,本地语音转写,开源免费,Windows 原生,主推,基于 Whisper 的本地 STT、数据不出机、零订阅；短剧译配/字幕第一步,https://github.com/Const-me/WhisperDesktop
+2026-09-26,HandBrake,开源视频转码,开源免费,跨平台(含 Windows),主推,素材压码/格式归一/多分辨率导出、本地不碰版权；出海分发前预处理,https://handbrake.fr/
+2026-09-26,Czkawka,重复文件清理,开源免费,Windows 原生,备选,Rust 写、按内容哈希找重复；清本地素材库重复文件,https://github.com/krupptDev/Czkawka
+2026-09-27,Ooor,本地LLM工作站,开源免费(MIT),Windows 原生,主推,1.5MB无Electron/云端/遥测、包llama.cpp生态+Agent+MCP、本地OpenAI兼容端点,https://github.com/rhettli/Ooor-desktop
+2026-09-27,Solon,Windows容器管理器,免费(未签名),Windows 原生,主推,Docker Desktop替代、内存约1/4、自带微型Linux、无遥测、单人开发,https://github.com/v94lere/solon
+2026-09-27,Forger,离线AI编码IDE,免费(BYOK/FSL-1.1-MIT),Windows 优先(Electron),备选,本地LLM离线跑、写入审批门控、无遥测、机密代码不外传,https://github.com/cuculhart/forger-ide
+2026-09-28,Cline Desktop App,开源AI编码agent桌面版,免费(开源 Apache2.0),Windows beta(跨平台),主推,"脱离VS Code独立跑、接300+模型/本地Ollama、敏感代码留本机、定时任务+Marketplace;偏差:团队维护非单人",https://cline.bot/
+2026-09-28,Lisen,网页文章朗读扩展,免费(除Cartesia套餐),Chrome/Edge跨平台,主推,"用自己Cartesia音色朗读长文、通勤听研报;⚠️文本发Cartesia做TTS",https://www.producthunt.com/
+2026-09-28,Hemory,对话记忆+MCP层,未注明(本地可搜),iOS/Apple Watch采集,备选,"352票日榜第一、说话人标注本地记忆接agent;⚠️主功能需iPhone/Watch、Windows受限",https://ustack.app/blogs/producthunt-daily-2026-09-26
+2026-09-29,OBS Studio,开源录屏推流,免费开源,Windows 原生,主推,"免费无水印、本地处理数据不出机、场景源可编排;用在哪:录投放后台/短剧素材/团队教程;偏差:OBS Project 非营利维护非单人但可自持",https://obsproject.com
+2026-09-29,Pinokio,本地AI模型一键安装器,免费开源,Windows 原生,主推,"免命令行拉起本地LLM/生图/配音、数据留本机;用在哪:local-first 栈跑本地模型做配音翻译草稿;偏差:维护团队非单人",https://pinokio.computer
+2026-09-29,Stirling-PDF,开源PDF工具箱,免费开源(自托管),跨平台(含 Windows),备选,"合并拆分OCR/格式转换、本地部署数据不出机;用在哪:报表合同数据字典处理;偏差:已有商业云版、自托管OSS仍免费",https://github.com/Stirling-Tools/Stirling-PDF
+2026-09-30,Everything,Windows本地文件秒搜,免费(无遥测),Windows 原生,主推,"NTFS MFT直读、百万文件输入即出、纯本地无订阅无遥测;用在哪:工作区/素材库海量文件秒定位;偏差:voidtools小团队商业免费软件非开源但数据不出机",https://www.voidtools.com/
+2026-09-30,Flow Launcher,Windows开源启动器,开源免费,Windows 原生,主推,"插件化一键拉起文件/应用/本地脚本、本地优先数据不出机;用在哪:local-first工作流统一入口跑脚本开工作区;偏差:社区开源非单人",https://github.com/Flow-Launcher/Flow.Launcher
+2026-09-30,Cronhq,托管式cron定时任务,订阅/免费档未知,Web(跨平台),备选,"确实能跑的定时任务、有执行记录、比裸crontab稳;用在哪:日报/邮件自动化可靠性兜底;⚠️托管非自持、仅作备选",https://www.producthunt.com/
+2026-10-08,OpenBot,开源多agent编排工作台,开源免费,Mac/Windows/iOS 跨平台,主推,"接 Claude/ChatGPT/Grok/OpenCode/自定义agent、分配角色委派工作、本地优先数据留本机;用在哪:WorkBuddy+子智能体+MCP 多 agent 工作流统一编排台;偏差:实时协作或走服务端、非单人社区项目",https://www.producthunt.com/
+2026-10-08,Rill Browser,AI 原生浏览器,免费(商业模式未明),macOS 偏重(Windows 待实测),主推,"⌘E 把任意网页变 Claude Code/Codex 任务、标签按主题、历史按天可搜;用在哪:投放后台/Superset 报表页直接派 agent 取数对账;⚠️偏 macOS、团队维护非单人",https://www.producthunt.com/
+2026-10-08,NoteWorthy,本地AI笔记,免费(无订阅),疑似 Apple 主(Windows 待确认),备选,"全设备本地处理、离线无账号无订阅不上传服务器、自动标题归类;用在哪:随手记灵感/需求点数据不出机;⚠️主平台疑似 Apple、非单人团队作品",https://www.producthunt.com/
+2026-10-09,LosslessCut,开源无损视频裁剪,开源免费(MIT),Windows 原生,主推,"基于 ffmpeg 不重编码、切分/合并零损、本地跑数据不出机;用在哪:短剧素材粗剪+按镜头切片+多分辨率导出,与 HandBrake 压码互补;偏差:社区开源非单人",https://github.com/mifi/losslesscut
+2026-10-09,Lumina,AI 视频剪辑(重组素材),未核实(疑似 SaaS),Web/团队,主推,"不生成、按脚本建议镜头语言+匹配BGM情绪重组已有素材、瞄准专业内容团队;用在哪:短剧宣发/投放素材精剪快速出多版;⚠️收费未核实、偏团队非纯个人",https://www.toutiao.com/article/7693354555710915082
+2026-10-09,Spira AI,自主AI网红+成品短视频,订阅(首发月5折),Web(SaaS),备选,"脚本→选主播→切B-roll→字幕音乐,一张照片+语音克隆人脸声纹;用在哪:多语区投放宣发批量产短视频;⚠️非免费买断/数据自持、人脸克隆合规红线,仅备选",https://openaimaster.ai/best-product-hunt-ai-tools-october-2026
+2026-10-10,OpenPilot,开源桌面AI agent,开源免费(MIT),Windows 优先(早期Mac beta),主推,接任意OpenAI兼容模型(含本地Ollama)、选文件夹读写执行、敏感动作先批准、数据不出机;用在哪:local-first工作流跑本地自动化、敏感数据留本机;⚠️很早期、先在副本上跑,
+2026-10-10,Together Link,coding agent成本路由工具,免费工具(pay per use),跨平台(接Claude Code/Codex),主推,把coding agent指向更便宜开放模型、每次会话出成本收据、简任务丢便宜模型/难任务丢强模型、宣称比全用Opus5.5省50-80%;用在哪:压低agent账单、和价格战+路由价差主线同逻辑;⚠️Together AI托管非纯本地、省50-80%为厂商自陈,
+2026-10-10,Busabase,agent共享系统/工作区,开源免费,跨平台(Cloud/桌面/自托管),备选,人和多个agent共用工作区(表格/文档/skills)、控访问看变更历史;用在哪:WorkBuddy+子智能体+MCP多agent统一记忆资料库;⚠️偏团队早期非单人、自托管才数据自持,
+2026-10-11,OpenCompanion,本地多AI编码CLI会话管理器,开源免费(MIT),Windows/Linux/macOS原生,主推,"开源Tauri无账号无云无遥测、统一看多个Claude Code/Codex/OpenCode会话、等批准时手机同Wi-Fi可Approve/Deny、自带cron式自动化;用在哪:多agent/Codex工作流统一前台+离座手机批批准;未签名首启需允许、手机链路明文HTTP仅本地外出用Tailscale",https://www.producthunt.com/products/opencompanion
+2026-10-11,Databench by Alkera,开源自托管数据协作工作区,开源免费(Apache-2.0),Web自托管浏览器可跑本机SSH,主推,"人+agent同处共享SQL/Python notebook与chat、并行agent、结果可溯源、每动作权限门禁(read/write/destroy/egress/exec)、用自己的Anthropic/OpenAI key数据不出网;用在哪:WorkBuddy+子智能体做数据产品的自托管协作台;YC S26极早期repo 1天、自托管是真运维活、浏览器为主IDE/CLI待出、团队维护非单人",https://github.com/AlkeraAI/Databench
+2026-10-11,Rool,隐私优先云端AI机器,免费层+订阅(€9/€25月),Web跨平台含Windows浏览器/iOS/Android,备选,"欧盟Finland托管私有Linux VM、文件对话记忆一体、不卖数据不训练、可随时导出;用在哪:不想把真实工作交第三方时的隐私AI工作台;云端非本地、免费层约20-25提示/日、无模型自选、日志留30天",https://www.producthunt.com/posts/rool
+2026-10-12,Skreno,浏览器视频工作室(录屏+剪辑+字幕+AI摘要),收费未核实(疑似Freemium Web),Web(跨平台含Windows浏览器),主推,"录屏与剪辑分离轨道、静音切除、动画字幕、AI摘要转写；短剧宣发/投放素材快速出片一步到位；⚠️Web SaaS非本地自持、团队/收费未坐实",https://ustack.app/blogs/producthunt-daily-2026-10-10
+2026-10-12,Onepin,多语配音质检层,订阅(Creator $16/月 Studio $80 Scale $240;免费1000积分),Web(跨平台),备选,"路由33个TTS模型、数字日期展开、400万词发音词典校名、逐行打分自动修复；出海短剧配音质检；⚠️订阅非买断、非英语发音修复仅英语(越南/泰/西/葡不适用)、BYOK需Studio+",https://hunted.space/product/onepin
+2026-10-13,Firetower,自部署coding agent控制面,开源免费(AGPL-3.0),Windows/macOS/iOS/Android原生,主推,"把Claude Code/Codex/Kimi Code跑在你自己服务器、会话持久可手机接管；Rust实现worker仅5MB、自托管免费；契合local-first数据不出本机；⚠️worker非模型宿主、运维归你、需Docker+Node20",https://www.producthunt.com/products/firetower
+2026-10-13,Otter Vault,本地优先API密钥保险库,免费(独立开发者),Chrome扩展(Windows可用)+macOS菜单栏,主推,"浏览器出现新密钥即捕获、AES-256-GCM本地加密、无服务器无账号无同步；防密钥明文散落；独立开发者Krishna Ganga一人做；⚠️未独立审计、忘密不可恢复、Teams版$20/月非本地",https://www.producthunt.com/products/otter-vault
+2026-10-13,OpenSEO,开源MCP SEO/GEO套件,开源免费(MIT自托管)/托管$10月,Web自托管跨平台,备选,"Semrush/Ahrefs替代品、MCP让agent调真实SEO数据、自托管免费带DataForSEO key按量付；OPC内容分发/SEO+GEO可用；⚠️偏大项目(2.2万+stars、Every App维护非≤5人小团队)、数据依赖DataForSEO非自爬",https://github.com/every-app/open-seo
+2026-10-14,Bruno,开源API客户端(Postman替代),开源免费(MIT),Windows/macOS/Linux原生,主推,"Git原生、请求集合存本地进版本控制、不锁云、可接IDE和coding agent；统管Superset/OpenRouter/模型/飞书/邮箱一大把API、数据留本机Git；偏差:独立OSS项目(Hello Pixels)非大厂、团队规模未逐一核实",https://www.producthunt.com/products/bruno
+2026-10-14,Open Analytics,开源AI-Native网站分析替代,开源免费(自托管),Web自托管跨平台,主推,"GA替代、可私有化、agent直查分析数据、数据不出网；short-drama看板外的轻量落地页/小程序分析；偏差:偏web分析与Superset栈重叠、自托管是真运维活",https://www.producthunt.com/products/open-analytics
+2026-10-14,SubtitleGenerator,浏览器AI字幕生成,未核实(浏览器SaaS),Web跨平台,备选,"视频转可发布级AI字幕一站式出稿、免装客户端；出海短剧西/葡/法语区快速配字幕；⚠️浏览器SaaS数据自持性未核实、量大或对白敏感优先本地WhisperDesktop+人工校对",https://www.producthunt.com/products/subtitlegenerator
+2026-10-15,FocusWrite,本地优先写作app,免费/未注明(本地优先),Web App(跨平台),主推,"local-first 写作、专注模式、数据留本机；用在哪:写PRD/日报/需求文档不出云；⚠️PH 10/14新品、团队规模未核实、Web App 自持性看实现",https://www.producthunt.com/
+2026-10-15,Edgee Mod for Claude Code,Claude Code 多模型插件,免费/开源未注明,跨平台(Claude Code),主推,"让 Claude Code 用任意模型、保留 Claude 套餐；用在哪:把 Haiku5.5/DeepSeek 等便宜模型塞进 Claude Code 压账单、与价格战主线同逻辑；⚠️PH 10/14新品、偏dev、团队未核实",https://www.producthunt.com/
+2026-10-15,OpenScreen 2,开源AI视频剪辑,开源免费,跨平台,备选,"录屏+AI agent 自动剪辑；用在哪:短剧宣发/投放素材快速出片；⚠️PH 10/14新品、团队未核实、开源但自持看部署",https://www.producthunt.com/
