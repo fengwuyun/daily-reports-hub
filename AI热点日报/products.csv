@@ -46,3 +46,24 @@
 2026-10-15,FocusWrite,本地优先写作app,免费/未注明(本地优先),Web App(跨平台),主推,"local-first 写作、专注模式、数据留本机；用在哪:写PRD/日报/需求文档不出云；⚠️PH 10/14新品、团队规模未核实、Web App 自持性看实现",https://www.producthunt.com/
 2026-10-15,Edgee Mod for Claude Code,Claude Code 多模型插件,免费/开源未注明,跨平台(Claude Code),主推,"让 Claude Code 用任意模型、保留 Claude 套餐；用在哪:把 Haiku5.5/DeepSeek 等便宜模型塞进 Claude Code 压账单、与价格战主线同逻辑；⚠️PH 10/14新品、偏dev、团队未核实",https://www.producthunt.com/
 2026-10-15,OpenScreen 2,开源AI视频剪辑,开源免费,跨平台,备选,"录屏+AI agent 自动剪辑；用在哪:短剧宣发/投放素材快速出片；⚠️PH 10/14新品、团队未核实、开源但自持看部署",https://www.producthunt.com/
+2026-10-16,OpenMuse,自托管个人AI助手,开源免费(自托管),跨平台(Web/本地),主推,"开源可自托管、harness无关(Claude Code/Codex/WorkBuddy都可挂)、数据不出机；用在哪:把个人助手/记忆跑本机接本地agent流；⚠️PH 10/15新品、团队规模/许可证未坐实",https://www.producthunt.com/
+2026-10-16,SupoClip,开源AI视频切片,开源免费,跨平台(开源自部署),主推,"长视频自动切viral shorts、批量产短切片、不依赖闭源剪辑SaaS；用在哪:短剧宣发/投放素材快速切片(跟你业务直接相关)；⚠️PH 10/15新品、平台/许可证未完全核实、自部署才数据自持",https://www.producthunt.com/
+2026-10-16,Tiden,coding agent意图校验安全层,未注明(偏开源),跨平台,备选,"agent执行破坏性操作前拦截确认、降低本地agent跑飞风险；用在哪:本机agent(WorkBuddy子智能体/Codex)动敏感动作前护栏；⚠️偏dev、团队/许可证未核实",https://www.producthunt.com/
+2026-10-17,OpenCode 2.0,开源coding agent CLI,开源免费(免费层DeepSeek V4.1 Flash/200K上限),跨平台(CLI含Windows),主推,"开源终端原生多模型可切换、免费层明码标注上限；用在哪:Codex+DeepSeek链路免费兜底/对照位、短任务零成本跑；⚠️开源社区项目非单人、免费层额度规则以官方为准",https://www.producthunt.com/
+2026-10-17,oioi,剪贴板浮层管理器,未注明(装前核实),macOS/Windows/Linux,主推,"Option+V弹出最近复制(文本/代码/图片)不打断心流、轻快；用在哪:多窗口搬数据/SQL片段/素材不切窗口；⚠️2025/4首发非严格新品、定价与本地存储实现未核实",https://www.producthunt.com/posts/oioi
+2026-10-17,MentionBird,AI搜索可见性监控(Ahrefs for AI Search),订阅(Starter首3月$19/月码PH19),Web(SaaS),备选,"追踪品牌在ChatGPT/Gemini/Perplexity回答中的提及+引用源、展示AI实际执行的web搜索词、MCP无限访问；10/16 PH日榜第一529分；用在哪:GEO服务生产工具；⚠️SaaS数据在云端非自持、仅备选",https://www.producthunt.com/posts/mentionbird
+2026-10-18,SignWith,按份付费电子签名工具,按份计费(无月费),Web(SaaS),主推,"签一份付一份、全行业订阅费里的反定价；用在哪:接单签协议/客户确认书/低频签署；⚠️SaaS数据云端不满足自持、合同效力核对其司法辖区",https://www.producthunt.com/
+2026-10-18,Pomerado,网页转稳定API工具,未注明(装前核实),Web/开发工具,主推,"配置一次目标页直接拿结构化JSON、免写爬虫免维护选择器；用在哪:竞品价格监控/投放素材盯梢/报表页抓取原型、配合挣小钱第3条变现；⚠️新发布团队/许可未核实、抓取前确认目标站ToS",https://www.producthunt.com/
+2026-10-18,Tidy Design,开源设计画板工具(Figma平替),开源免费,跨平台(可自部署),备选,"开源可自部署、画板功能克制够画投放素材图；用在那:不想为偶尔素材开Figma账号时；⚠️成熟度与Figma有代差、自部署才数据自持",https://www.producthunt.com/
+2026-10-19,Inbox Zero,开源邮件AI客户端(Superhuman平替),开源免费(自部署),Web/可自部署,主推,"AI分类/草拟回复/批量清理收件箱；用在哪:配合Agent Mail工作流让AI先分拣通知订阅邮件；⚠️团队规模未核实、托管版数据在云端、自部署才自持",https://www.producthunt.com/
+2026-10-19,shim-cli,coding agent出站流量审计与脱敏CLI,开源免费,跨平台CLI,主推,"正打OpenCode泄钥痛点：看agent往外发了什么、能脱敏先脱敏；用在哪:Codex/Claude Code/OpenCode工作目录定期审计key与敏感串；⚠️新发布项目团队与维护活跃度未核实、当审计工具别当安全边界",https://www.producthunt.com/
+2026-10-19,Caldera,Obsidian仓库转公开知识花园,未注明(装前核实),跨平台(Obsidian生态),备选,"不换笔记工具给现有vault加发布层、笔记即网站；用在哪:把笔记公开部分发布做个人IP低成本起点；⚠️开源许可与团队未核实、发布前检查vault敏感内容",https://www.producthunt.com/
+2026-10-20,Snipaste,截图+贴图工具,免费(无广告无遥测),Windows 原生,主推,"独立开发者一人作品、F1智能吸附截图/F3截图钉桌当参照浮层；用在哪:两张报表并排钉屏比对/需求文档贴参考图；经典补推(本周PH无Windows合格新品)",https://zh.snipaste.com/
+2026-10-20,PasteKit,剪贴板本地格式化(JSON/YAML/SQL),未注明(装前核实),未核实(装前确认Windows版),主推,"JSON/YAML/SQL全部本机格式化不碰云、正对密钥/数据泄露主线；用在哪:Superset查询结果/BI配置/API调试格式化粘贴；⚠️PH 10/19新品、平台与团队未核实",https://www.producthunt.com/
+2026-10-20,Beam.win,agent窗口跨机接力,免费试用(后续未明),macOS 专属,备选,"一台Mac跑agent、把终端/浏览器窗口单独拉到另一台Mac、每窗口独立Dock图标；10/19 PH日榜第一221赞；⚠️仅macOS、看理念(agent会话窗口化)等Windows模仿者",https://www.hunted.space/product/beam-win
+2026-10-21,Lazy AWS,键盘驱动开源AWS资源终端,开源免费,跨平台CLI,主推,"终端键盘流一站式浏览/操作AWS资源不开浏览器控制台、开源可审计；用在哪:有AWS资产的团队查日志/开关实例；⚠️依赖AWS生态没用AWS可跳过、团队规模未核实",https://startupcorners.com/digest/product-digest-2026-10-20
+2026-10-21,Framefields,开源code-first视频创作工具,开源(许可待核实),未核实(看README确认Windows),主推,"用代码定义视频流程而非时间轴拖拽、批量生成/参数化改版效率高、适合一版素材×多语区批量生产；用在哪:短剧宣发素材批量化模板化实验；⚠️新项目成熟度未知、Windows支持与许可证发布前先看仓库",https://startupcorners.com/digest/product-digest-2026-10-20
+2026-10-21,Umbra Mail,Gmail聊天流式安静收件箱Chrome扩展,未注明(装前核实),Chrome扩展(Windows可用),备选,"纯前端重排不碰邮件协议、数据不出本机、对邮件焦虑人群思路对路；用在哪:Gmail重度用户收件箱降噪；⚠️仅Chrome+Gmail适用、团队规模未核实",https://www.producthunt.com/
+2026-10-22,croft,TS数据管道(单文件DuckDB),开源(许可待核实),跨平台(Node/TS),主推,"TypeScript写数据管道、数据落单个DuckDB文件、管道即代码即拷即迁、免Airflow/dbt重设施；用在哪:每日CSV/接口数据本地清洗入库再同步、数据不出本机；⚠️新项目成熟度未知、团队未核实",https://toupage.com/trend/producthunt
+2026-10-22,Tiny Little Office,开源隐私迷你办公套件,开源免费,Web(跨平台),主推,"隐私优先、分享链接即文档本身无需账号、数据自持无遥测；用在哪:临时给同事/外包传格式化文档不想开飞书时；⚠️功能极简、团队规模未核实",https://startupcorners.com/digest/product-digest-2026-10-21
+2026-10-22,/dev/null,程序员开源社交网络,开源免费,Web(可自部署),备选,"匿名+技术社区、10/21 PH当日第一447赞、开源可自部署；⚠️社交网络类数据自持存疑(内容存服务端)仅作了解",https://startupcorners.com/digest/product-digest-2026-10-21
