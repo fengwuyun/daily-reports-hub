@@ -70,3 +70,6 @@
 2026-10-23,PrivOS,自托管个人工作台(聊天/文档/看板/AI agent),未注明(装前核实),Docker自部署(Web跨平台),主推,"agent有权限做事与数据不出门放进同一自部署套件、不用Notion+ChatGPT来回搬；用在哪:个人知识库+任务+AI助手一体化Docker起一个就跑；⚠️新项目成熟度未知、团队未核实、先本地试跑再放数据",https://toupage.com/trend/producthunt
 2026-10-23,hibi,开源Obsidian替代笔记,开源(许可待核实),跨平台(装前核实Release),主推,"本地Markdown优先+开源可改、避开Obsidian商业化不确定性、文件格式通用迁移成本低；用在哪:MarkText链路上要双链/图谱时的升级备选；⚠️上架首日信息少、团队与Windows安装包未核实",https://toupage.com/trend/producthunt
 2026-10-23,Hotly,开源付费私信问答工具,开源(许可待核实),Web(自部署完整度未核实),备选,"把创作者付费问答/私信收单环节拆成独立工具、开源可自部署；用在哪:有稳定咨询/答疑需求时按条收费的工具化入口；⚠️支付通道未核实仅作了解",https://toupage.com/trend/producthunt
+2026-10-24,Bits,开源个人agent(跑任务/管待办),开源(许可待核实),跨平台(装前核实Release),主推,"开源可审计、本期安全潮(LiteLLM投毒/32万账户泄露)后能看代码本身成卖点；用在哪:本地跑个人任务编排数据不出门；⚠️上架首日信息少、Windows安装包与团队未核实",https://startupcorners.com/digest/product-digest-2026-10-23
+2026-10-24,Radaric,AI订阅式阅读器(学习编辑口味),未注明(是否开源未核实),Web(跨平台),主推,"不做全家桶信息流做懂你筛选标准的信息漏斗、对每天刷行业源的人是降噪工具；用在哪:AI资讯/短剧行业源喂进去按口味过滤替代手动刷RSS；⚠️新项目成熟度与数据自持性未核实",https://startupcorners.com/digest/product-digest-2026-10-23
+2026-10-24,heal.dev,AI代码审查补充层(抓bug与安全漏洞),未注明(SaaS形态),Web(平台未核实),备选,"卡位AI写代码快人审不过来的验证缺口、与Blacksmith融资同逻辑；用在哪:个人项目上线前跑安全扫描配合PHP漏洞潮自检；⚠️SaaS数据自持性未核实、敏感代码慎传",https://startupcorners.com/digest/product-digest-2026-10-23
