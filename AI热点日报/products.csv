@@ -73,3 +73,6 @@
 2026-10-24,Bits,开源个人agent(跑任务/管待办),开源(许可待核实),跨平台(装前核实Release),主推,"开源可审计、本期安全潮(LiteLLM投毒/32万账户泄露)后能看代码本身成卖点；用在哪:本地跑个人任务编排数据不出门；⚠️上架首日信息少、Windows安装包与团队未核实",https://startupcorners.com/digest/product-digest-2026-10-23
 2026-10-24,Radaric,AI订阅式阅读器(学习编辑口味),未注明(是否开源未核实),Web(跨平台),主推,"不做全家桶信息流做懂你筛选标准的信息漏斗、对每天刷行业源的人是降噪工具；用在哪:AI资讯/短剧行业源喂进去按口味过滤替代手动刷RSS；⚠️新项目成熟度与数据自持性未核实",https://startupcorners.com/digest/product-digest-2026-10-23
 2026-10-24,heal.dev,AI代码审查补充层(抓bug与安全漏洞),未注明(SaaS形态),Web(平台未核实),备选,"卡位AI写代码快人审不过来的验证缺口、与Blacksmith融资同逻辑；用在哪:个人项目上线前跑安全扫描配合PHP漏洞潮自检；⚠️SaaS数据自持性未核实、敏感代码慎传",https://startupcorners.com/digest/product-digest-2026-10-23
+2026-10-25,Inyon,开源手机远程引导coding agent,开源(许可待核实),跨平台(装前核实Release),主推,"只做agent长任务人不在场这一件事、手机批准/补指令、开源可审计；用在哪:多agent批处理挂后台手机收确认；⚠️本月PH新品、Windows支持未核实",https://www.producthunt.com/categories/ai-coding-agents?order=recent_launches
+2026-10-25,LLM SEO EEAT,免费E-E-A-T合规检查器,免费无登录,Web(浏览器即用),主推,"不装全家桶只查AI搜索可信度一问、可当GEO服务获客钩子(免费查付费改)；用在哪:内容站交付前自检；⚠️4评小样本、规则覆盖度未核实",https://producthunt.com/categories/seo-tools
+2026-10-25,Xiryn,开源本地个人agent(隐私优先),开源(许可待核实),跨平台(装前核实Release),备选,"与上期主推Bits同赛道的开源本地agent备选、代码可看数据不出门；用在哪:本地任务编排备胎；⚠️Windows原生与否与团队未核实",https://producthunt.com/categories/openclaw?order=recent_launches
