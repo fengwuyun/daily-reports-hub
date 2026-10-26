@@ -76,3 +76,6 @@
 2026-10-25,Inyon,开源手机远程引导coding agent,开源(许可待核实),跨平台(装前核实Release),主推,"只做agent长任务人不在场这一件事、手机批准/补指令、开源可审计；用在哪:多agent批处理挂后台手机收确认；⚠️本月PH新品、Windows支持未核实",https://www.producthunt.com/categories/ai-coding-agents?order=recent_launches
 2026-10-25,LLM SEO EEAT,免费E-E-A-T合规检查器,免费无登录,Web(浏览器即用),主推,"不装全家桶只查AI搜索可信度一问、可当GEO服务获客钩子(免费查付费改)；用在哪:内容站交付前自检；⚠️4评小样本、规则覆盖度未核实",https://producthunt.com/categories/seo-tools
 2026-10-25,Xiryn,开源本地个人agent(隐私优先),开源(许可待核实),跨平台(装前核实Release),备选,"与上期主推Bits同赛道的开源本地agent备选、代码可看数据不出门；用在哪:本地任务编排备胎；⚠️Windows原生与否与团队未核实",https://producthunt.com/categories/openclaw?order=recent_launches
+2026-10-26,Epherem,AI生成代码安全扫描器,免费开源,跨平台(CLI装前核实),主推,"专扫vibe coding产出代码的漏洞、只解决AI代码敢不敢上生产一件事；用在哪:agent批量生成脚本提交前过一遍；⚠️本月PH新品、Windows CLI支持与许可未核实",https://www.producthunt.com/categories/vibe-coding?order=recent_launches
+2026-10-26,buddylist,多coding agent聊天室面板,开源,跨平台(装前核实),主推,"把多个coding agent变聊天室联系人、统一IM界面下指令看进度、不换harness只做面板层；用在哪:WorkBuddy/Codex/DeepSeek多批任务统一收件箱；⚠️本月PH新品、Windows原生未核实",https://www.producthunt.com/categories/vibe-coding?order=recent_launches
+2026-10-26,BOSS Console,常驻agent迷你OS,开源(5.0分1评),跨平台(装前核实),备选,"把agent当常驻进程管理的迷你OS、偏基础设施定位；用在哪:7x24本地agent(监控/定时采集)底座备选；⚠️本月PH新品、平台与成熟度未核实、评分样本小",http://producthunt.com/categories/openclaw?order=recent_launches
