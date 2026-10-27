@@ -79,3 +79,6 @@
 2026-10-26,Epherem,AI生成代码安全扫描器,免费开源,跨平台(CLI装前核实),主推,"专扫vibe coding产出代码的漏洞、只解决AI代码敢不敢上生产一件事；用在哪:agent批量生成脚本提交前过一遍；⚠️本月PH新品、Windows CLI支持与许可未核实",https://www.producthunt.com/categories/vibe-coding?order=recent_launches
 2026-10-26,buddylist,多coding agent聊天室面板,开源,跨平台(装前核实),主推,"把多个coding agent变聊天室联系人、统一IM界面下指令看进度、不换harness只做面板层；用在哪:WorkBuddy/Codex/DeepSeek多批任务统一收件箱；⚠️本月PH新品、Windows原生未核实",https://www.producthunt.com/categories/vibe-coding?order=recent_launches
 2026-10-26,BOSS Console,常驻agent迷你OS,开源(5.0分1评),跨平台(装前核实),备选,"把agent当常驻进程管理的迷你OS、偏基础设施定位；用在哪:7x24本地agent(监控/定时采集)底座备选；⚠️本月PH新品、平台与成熟度未核实、评分样本小",http://producthunt.com/categories/openclaw?order=recent_launches
+2026-10-27,Llama Windows,本地AI服务器(系统托盘llama.cpp),开源免费,Windows 11原生,主推,"llama.cpp进托盘+一键下模型+共享本地OpenAI兼容API+模型缓存、全系统应用共用本地模型、数据不出机；用在哪:小模型挂本机给脚本和agent跑批兜底、官方API抖动时本地顶上",https://ustack.app/blogs/producthunt-daily-2026-10-25
+2026-10-27,AVP,coding agent用的开源Git替代协议,开源,跨平台(单二进制),主推,"每次landing在main最新头秒级验证、产物仍是普通Git commit、CI从104次/天降到4次、6-8 agent同仓库不丢任务(官方自测口径)；用在哪:多agent并行改同一仓库的版本层、配Claude Code/Codex",https://www.hunted.space/dashboard/avp
+2026-10-27,Openstatus Incident Management,小团队开源事故管理,开源,跨平台(Web自部署),备选,"只做出事后的流程层：Slack宣告事故+自动建频道+时间线+复盘草稿、配合监控与状态页；用在哪:自动化链路(日报推送/跑批采集)故障排障与复盘记录；单人用偏重",https://ustack.app/blogs/producthunt-daily-2026-10-25
