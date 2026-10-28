@@ -82,3 +82,6 @@
 2026-10-27,Llama Windows,本地AI服务器(系统托盘llama.cpp),开源免费,Windows 11原生,主推,"llama.cpp进托盘+一键下模型+共享本地OpenAI兼容API+模型缓存、全系统应用共用本地模型、数据不出机；用在哪:小模型挂本机给脚本和agent跑批兜底、官方API抖动时本地顶上",https://ustack.app/blogs/producthunt-daily-2026-10-25
 2026-10-27,AVP,coding agent用的开源Git替代协议,开源,跨平台(单二进制),主推,"每次landing在main最新头秒级验证、产物仍是普通Git commit、CI从104次/天降到4次、6-8 agent同仓库不丢任务(官方自测口径)；用在哪:多agent并行改同一仓库的版本层、配Claude Code/Codex",https://www.hunted.space/dashboard/avp
 2026-10-27,Openstatus Incident Management,小团队开源事故管理,开源,跨平台(Web自部署),备选,"只做出事后的流程层：Slack宣告事故+自动建频道+时间线+复盘草稿、配合监控与状态页；用在哪:自动化链路(日报推送/跑批采集)故障排障与复盘记录；单人用偏重",https://ustack.app/blogs/producthunt-daily-2026-10-25
+2026-10-28,desigma,开源Rust版Figma替代(离线+本地文件),免费开源,Windows/macOS/Linux原生,主推,"纯Rust+自有渲染器、无账号无订阅、可开.fig迁移、MCP server让agent直接改设计文件、P2P加密协作；用在哪:不吃Figma订阅的独立项目UI+agent改版式；⚠️early alpha未签名、首次打开需手动放行",https://github.com/deepfounder-ai/desigma
+2026-10-28,SurgePix,AI出图分层精修+agent可调用,免费试用(付费价未公开),Web+agent skills,主推,"笔刷重绘/平面图拆图层/文字回填、品牌资产一次上传整套统一、开源agent skills可接Claude Code/Cursor终端出图；用在哪:短剧投放素材批量出图换文案、多语区海报变体；⚠️付费价未公开商用前确认、团队规模未核实",https://surgepix.ai
+2026-10-28,VibeiDE,agent任务并行排队审阅面板,未标注,平台未核实(疑似偏Mac),备选,"只做排队+逐个审阅一件事、PH 10/27日榜第1、作者Patrik Kelemen个人开发；用在哪:多agent并行派任务集中收结果；⚠️Windows可用性装前核实",https://toupage.com/trend/producthunt
