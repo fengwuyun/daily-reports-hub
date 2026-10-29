@@ -85,3 +85,6 @@
 2026-10-28,desigma,开源Rust版Figma替代(离线+本地文件),免费开源,Windows/macOS/Linux原生,主推,"纯Rust+自有渲染器、无账号无订阅、可开.fig迁移、MCP server让agent直接改设计文件、P2P加密协作；用在哪:不吃Figma订阅的独立项目UI+agent改版式；⚠️early alpha未签名、首次打开需手动放行",https://github.com/deepfounder-ai/desigma
 2026-10-28,SurgePix,AI出图分层精修+agent可调用,免费试用(付费价未公开),Web+agent skills,主推,"笔刷重绘/平面图拆图层/文字回填、品牌资产一次上传整套统一、开源agent skills可接Claude Code/Cursor终端出图；用在哪:短剧投放素材批量出图换文案、多语区海报变体；⚠️付费价未公开商用前确认、团队规模未核实",https://surgepix.ai
 2026-10-28,VibeiDE,agent任务并行排队审阅面板,未标注,平台未核实(疑似偏Mac),备选,"只做排队+逐个审阅一件事、PH 10/27日榜第1、作者Patrik Kelemen个人开发；用在哪:多agent并行派任务集中收结果；⚠️Windows可用性装前核实",https://toupage.com/trend/producthunt
+2026-10-29,CleanSlop,vibe-coded应用上线前体检(代码审查+测试),未核实,平台未核实,主推,"只做AI代码上线前把关一件事；背景:实证研究显示vibe-coded代码库维护成本18个月膨胀300%、$5万MVP补到生产级再花$20-50万；用在哪:agent搭的小工具/报表页交付前跑一遍；⚠️平台与定价未核实装前确认Windows可用",https://www.producthunt.com/categories/vibe-coding
+2026-10-29,Rival Workshop,agent skill集中管理书架,未核实,平台未核实,主推,"只解决skill的版本+归档+复用、不抢harness的活；用在哪:管理日报/分析/抓包类skill跨项目复用快速找版本；与用户Skill产品化路线同方法论；⚠️团队规模与Windows可用性未核实",https://www.producthunt.com/categories/ai-coding-agents
+2026-10-29,Jackalope,多coding agent共享工作区(Codex/Claude Code/Grok/OpenCode),未核实,疑似偏Mac,备选,"不做模型只做多agent同处一室的workspace层；与已推OpenCompanion同赛道；用在哪:同时跑多个CLI agent集中管理；⚠️平台支持未核实装前确认",https://www.producthunt.com/categories/vibe-coding
