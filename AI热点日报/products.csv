@@ -88,3 +88,6 @@
 2026-10-29,CleanSlop,vibe-coded应用上线前体检(代码审查+测试),未核实,平台未核实,主推,"只做AI代码上线前把关一件事；背景:实证研究显示vibe-coded代码库维护成本18个月膨胀300%、$5万MVP补到生产级再花$20-50万；用在哪:agent搭的小工具/报表页交付前跑一遍；⚠️平台与定价未核实装前确认Windows可用",https://www.producthunt.com/categories/vibe-coding
 2026-10-29,Rival Workshop,agent skill集中管理书架,未核实,平台未核实,主推,"只解决skill的版本+归档+复用、不抢harness的活；用在哪:管理日报/分析/抓包类skill跨项目复用快速找版本；与用户Skill产品化路线同方法论；⚠️团队规模与Windows可用性未核实",https://www.producthunt.com/categories/ai-coding-agents
 2026-10-29,Jackalope,多coding agent共享工作区(Codex/Claude Code/Grok/OpenCode),未核实,疑似偏Mac,备选,"不做模型只做多agent同处一室的workspace层；与已推OpenCompanion同赛道；用在哪:同时跑多个CLI agent集中管理；⚠️平台支持未核实装前确认",https://www.producthunt.com/categories/vibe-coding
+2026-10-30,Dedica,AI代理视角体检网站(评分+修复指令),未核实,Web,主推,"只回答agent逛不逛得进你的网站一个问题、PH 10/28日榜第1(289票/84评论)、输出可直接交给编码agent的修复指令；用在哪:自建工具站/报表页上线前体检、GEO服务诊断入口；agent流量入口(Search/Gemini接入50+应用)时代的新SEO；⚠️团队规模/定价/开源与否未核实",https://www.producthunt.com/
+2026-10-30,Fraud Blocker,AI广告反作弊(Google/Meta无效流量拦截),SaaS订阅(价未核实),Web,主推,"只做广告无效流量拦截一件事、PH 10/28日榜第4(219票)、拦截bot/点击农场/AI agent点击；用在哪:FB/TT投放账户核对平台口径与实际转化差距、海外投放CPI $5+盘子里无效点击降1个点都是真钱；⚠️订阅制数据不自持、团队与定价未核实",https://www.producthunt.com/
+2026-10-30,Reset Alerts,Codex订阅重置窗口短信提醒,未核实,平台未核实,备选,"功能单一到极致:防错过重置时间白烧额度；用在哪:Codex Plus/DeepSeek后端额度重置加提醒；⚠️团队/定价/平台支持未核实",https://www.producthunt.com/categories/vibe-coding
