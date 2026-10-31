@@ -91,3 +91,6 @@
 2026-10-30,Dedica,AI代理视角体检网站(评分+修复指令),未核实,Web,主推,"只回答agent逛不逛得进你的网站一个问题、PH 10/28日榜第1(289票/84评论)、输出可直接交给编码agent的修复指令；用在哪:自建工具站/报表页上线前体检、GEO服务诊断入口；agent流量入口(Search/Gemini接入50+应用)时代的新SEO；⚠️团队规模/定价/开源与否未核实",https://www.producthunt.com/
 2026-10-30,Fraud Blocker,AI广告反作弊(Google/Meta无效流量拦截),SaaS订阅(价未核实),Web,主推,"只做广告无效流量拦截一件事、PH 10/28日榜第4(219票)、拦截bot/点击农场/AI agent点击；用在哪:FB/TT投放账户核对平台口径与实际转化差距、海外投放CPI $5+盘子里无效点击降1个点都是真钱；⚠️订阅制数据不自持、团队与定价未核实",https://www.producthunt.com/
 2026-10-30,Reset Alerts,Codex订阅重置窗口短信提醒,未核实,平台未核实,备选,"功能单一到极致:防错过重置时间白烧额度；用在哪:Codex Plus/DeepSeek后端额度重置加提醒；⚠️团队/定价/平台支持未核实",https://www.producthunt.com/categories/vibe-coding
+2026-10-31,App Store Screenshots,装进coding agent的开源skill自动生成App Store截图,免费开源,CLI skill(Claude Code/Codex/Cursor),主推,"纯skill形态无独立App、把上架素材变成agent一行指令；用在哪:小程序/工具上架或发版本让Codex直接产出截图书、代交付省设计外包；⚠️截图规格与成熟度未实测",https://productlist.info/daily/2026-10-30
+2026-10-31,Claude-Mem,开源Claude跨会话持久记忆(自动压缩历史上下文),免费开源,CLI/GitHub,主推,"专做记忆一件事、本地存储数据自持、GitHub trending验证活跃；用在哪:Claude Code/Codex长周期项目跨会话不丢上下文；⚠️与Claude Code绑定较深、Codex后端兼容待验证",https://github.com/thedotmack/claude-mem
+2026-10-31,bytemail,Swift原生macOS邮件客户端(验证码动效滑出),未核实,macOS专属,备选,"把收验证码做成一秒可达视觉焦点、原生Swift本地数据；⚠️用户是Windows不作主推只作记录、同类验证码优先邮件客户端在Windows侧仍是空白",https://productlist.info/daily/2026-10-30
