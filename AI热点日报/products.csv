@@ -94,3 +94,6 @@
 2026-10-31,App Store Screenshots,装进coding agent的开源skill自动生成App Store截图,免费开源,CLI skill(Claude Code/Codex/Cursor),主推,"纯skill形态无独立App、把上架素材变成agent一行指令；用在哪:小程序/工具上架或发版本让Codex直接产出截图书、代交付省设计外包；⚠️截图规格与成熟度未实测",https://productlist.info/daily/2026-10-30
 2026-10-31,Claude-Mem,开源Claude跨会话持久记忆(自动压缩历史上下文),免费开源,CLI/GitHub,主推,"专做记忆一件事、本地存储数据自持、GitHub trending验证活跃；用在哪:Claude Code/Codex长周期项目跨会话不丢上下文；⚠️与Claude Code绑定较深、Codex后端兼容待验证",https://github.com/thedotmack/claude-mem
 2026-10-31,bytemail,Swift原生macOS邮件客户端(验证码动效滑出),未核实,macOS专属,备选,"把收验证码做成一秒可达视觉焦点、原生Swift本地数据；⚠️用户是Windows不作主推只作记录、同类验证码优先邮件客户端在Windows侧仍是空白",https://productlist.info/daily/2026-10-30
+2026-11-01,sitesolide,开源MIT CLI把vibe-coded应用一条命令部署到自己服务器(HTTPS+登录+systemd沙箱无Docker),免费开源MIT,CLI(平台未实测Windows),主推,"独立开发者单人项目PH 10/30日榜#20；差异化:补齐agent写码到能安全给别人用的最后一段、数据全在自有服务器；用在哪:Codex写的小工具/报表页部署给同事看；⚠️Windows兼容未实测",https://www.hunted.space/product/sitesolide
+2026-11-01,Tractionwave,投放前AI注意力热图预检创意视觉,未核实,SaaS,主推,"差异化:投放后看数据调素材前移为投放前热图预检；用在哪:短剧投放素材封面/前3秒构图检查、FB/TT信息流素材对口；⚠️定价与团队规模未核实、数据非自持",https://www.producthunt.com/categories/advertising-tools
+2026-11-01,Mudroom,开源工具把coding agent放进VM跑、改动像PR一样逐条review后合并,免费开源,GitHub(平台未核实),备选,"先审后合的agent工作流、防agent乱改文件；用在哪:agent批量改脚本/SQL先沙箱跑人审后落盘；⚠️Windows原生支持未核实",https://www.producthunt.com
