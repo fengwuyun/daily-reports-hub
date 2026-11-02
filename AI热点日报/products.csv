@@ -97,3 +97,6 @@
 2026-11-01,sitesolide,开源MIT CLI把vibe-coded应用一条命令部署到自己服务器(HTTPS+登录+systemd沙箱无Docker),免费开源MIT,CLI(平台未实测Windows),主推,"独立开发者单人项目PH 10/30日榜#20；差异化:补齐agent写码到能安全给别人用的最后一段、数据全在自有服务器；用在哪:Codex写的小工具/报表页部署给同事看；⚠️Windows兼容未实测",https://www.hunted.space/product/sitesolide
 2026-11-01,Tractionwave,投放前AI注意力热图预检创意视觉,未核实,SaaS,主推,"差异化:投放后看数据调素材前移为投放前热图预检；用在哪:短剧投放素材封面/前3秒构图检查、FB/TT信息流素材对口；⚠️定价与团队规模未核实、数据非自持",https://www.producthunt.com/categories/advertising-tools
 2026-11-01,Mudroom,开源工具把coding agent放进VM跑、改动像PR一样逐条review后合并,免费开源,GitHub(平台未核实),备选,"先审后合的agent工作流、防agent乱改文件；用在哪:agent批量改脚本/SQL先沙箱跑人审后落盘；⚠️Windows原生支持未核实",https://www.producthunt.com
+2026-11-02,Hexis,开源Apache-2.0的agent控制面:技能/工具/权限/身份git仓库统一管理(Docker自托管,MCP+UTCP双协议),免费开源Apache-2.0,自托管Docker(Windows可用),主推,"差异化:agent提案自动同步但只有人能merge、工具10秒热更新、连接密钥全程审计；用在本机自动化权限分层(只读/可写分角色发密钥)；⚠️Bevel团队系创业公司非独立开发者、版本尚早(0.19起)",https://github.com/Bevel-Software/Hexis
+2026-11-02,SuperLocalMemory,开源带治理的agent本地记忆库(跨项目隔离/防记忆污染),免费开源,本地优先(Windows未实测),主推,"PH10月末新品；差异化:切中跨项目记忆污染与记忆衰减痛点、数据不出本机；用在多项目并行跑agent时按项目隔离上下文；⚠️新品实现细节与Windows兼容未实测",https://www.producthunt.com/categories/ai-coding-agents
+2026-11-02,Reason,主打成本效率的coding agent(同等任务更低token消耗),未核实,未核实,备选,"PH10/29新品；在单成功任务成本轴上做优化；⚠️详情/定价/平台未核实、观察项",https://www.producthunt.com/categories/ai-coding-agents
