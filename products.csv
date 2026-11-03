@@ -1,0 +1,105 @@
+﻿date,name,type,price,platform,role,note,source
+2026-09-23,slop-grader,CLI 写作质检,开源免费,跨平台(CLI/Node),主推,自定义规则集评测文本质量、治 AI 腔；Windows 可跑,https://startupcorners.com/digest/product-digest-2026-09-22
+2026-09-23,Harbor,私有笔记第二大脑,买断/订阅(全量导出),全平台原生,主推,Evernote 替代、数据不锁死、反订阅陷阱,https://ustack.app/blogs/producthunt-daily-2026-09-20
+2026-09-23,WhaleRead,本地离线翻译,免费/买断,跨平台,备选,TXT/MD/EPUB 离线翻、文件不出本机；9/19 略超窗口,https://startupcorners.com/digest/product-digest-2026-09-19
+2026-09-24,GBrain,跨AI本地记忆层,自托管可选(本地md记忆),跨平台(云/自托管),主推,记忆即本地Markdown文件夹、可带走、多AI共享上下文；数据可自持,https://www.hunted.space/product/gbrain
+2026-09-24,Edyt,AI写作助手,未注明(双端免费/付费未明),Mac+Windows,主推,可改写其他应用选不中的文字(报错/PDF/只读框)；Windows原生可用,https://startupcorners.com/digest/product-digest-2026-09-23
+2026-09-24,Clueso MCP,对话式视频创作/剪辑,未注明,Web(跨平台),备选,470 upvotes日榜第一、MCP接Claude/ChatGPT；偏dev/tutorial视频、非本地,https://startupcorners.com/digest/product-digest-2026-09-23
+2026-09-25,Soup CLI,本地微调CLI,开源免费,跨平台(CLI/Rust),主推,4GB笔记本GPU微调8B LLM、数据不出机、零订阅；Windows可跑,https://www.producthunt.com/
+2026-09-25,jev-seo,SEO/GEO审计CLI,免费(无订阅),跨平台(CLI/Rust),主推,离线CLI查站点搜索/AI可见性、Windows可跑,https://www.producthunt.com/
+2026-09-25,Hookest,爆款视频hook素材库,未注明(Web/App),Web(跨平台),备选,病毒视频开头钩子库、投放/宣发找灵感；团队/收费未知,https://www.producthunt.com/
+2026-09-26,WhisperDesktop,本地语音转写,开源免费,Windows 原生,主推,基于 Whisper 的本地 STT、数据不出机、零订阅；短剧译配/字幕第一步,https://github.com/Const-me/WhisperDesktop
+2026-09-26,HandBrake,开源视频转码,开源免费,跨平台(含 Windows),主推,素材压码/格式归一/多分辨率导出、本地不碰版权；出海分发前预处理,https://handbrake.fr/
+2026-09-26,Czkawka,重复文件清理,开源免费,Windows 原生,备选,Rust 写、按内容哈希找重复；清本地素材库重复文件,https://github.com/krupptDev/Czkawka
+2026-09-27,Ooor,本地LLM工作站,开源免费(MIT),Windows 原生,主推,1.5MB无Electron/云端/遥测、包llama.cpp生态+Agent+MCP、本地OpenAI兼容端点,https://github.com/rhettli/Ooor-desktop
+2026-09-27,Solon,Windows容器管理器,免费(未签名),Windows 原生,主推,Docker Desktop替代、内存约1/4、自带微型Linux、无遥测、单人开发,https://github.com/v94lere/solon
+2026-09-27,Forger,离线AI编码IDE,免费(BYOK/FSL-1.1-MIT),Windows 优先(Electron),备选,本地LLM离线跑、写入审批门控、无遥测、机密代码不外传,https://github.com/cuculhart/forger-ide
+2026-09-28,Cline Desktop App,开源AI编码agent桌面版,免费(开源 Apache2.0),Windows beta(跨平台),主推,"脱离VS Code独立跑、接300+模型/本地Ollama、敏感代码留本机、定时任务+Marketplace;偏差:团队维护非单人",https://cline.bot/
+2026-09-28,Lisen,网页文章朗读扩展,免费(除Cartesia套餐),Chrome/Edge跨平台,主推,"用自己Cartesia音色朗读长文、通勤听研报;⚠️文本发Cartesia做TTS",https://www.producthunt.com/
+2026-09-28,Hemory,对话记忆+MCP层,未注明(本地可搜),iOS/Apple Watch采集,备选,"352票日榜第一、说话人标注本地记忆接agent;⚠️主功能需iPhone/Watch、Windows受限",https://ustack.app/blogs/producthunt-daily-2026-09-26
+2026-09-29,OBS Studio,开源录屏推流,免费开源,Windows 原生,主推,"免费无水印、本地处理数据不出机、场景源可编排;用在哪:录投放后台/短剧素材/团队教程;偏差:OBS Project 非营利维护非单人但可自持",https://obsproject.com
+2026-09-29,Pinokio,本地AI模型一键安装器,免费开源,Windows 原生,主推,"免命令行拉起本地LLM/生图/配音、数据留本机;用在哪:local-first 栈跑本地模型做配音翻译草稿;偏差:维护团队非单人",https://pinokio.computer
+2026-09-29,Stirling-PDF,开源PDF工具箱,免费开源(自托管),跨平台(含 Windows),备选,"合并拆分OCR/格式转换、本地部署数据不出机;用在哪:报表合同数据字典处理;偏差:已有商业云版、自托管OSS仍免费",https://github.com/Stirling-Tools/Stirling-PDF
+2026-09-30,Everything,Windows本地文件秒搜,免费(无遥测),Windows 原生,主推,"NTFS MFT直读、百万文件输入即出、纯本地无订阅无遥测;用在哪:工作区/素材库海量文件秒定位;偏差:voidtools小团队商业免费软件非开源但数据不出机",https://www.voidtools.com/
+2026-09-30,Flow Launcher,Windows开源启动器,开源免费,Windows 原生,主推,"插件化一键拉起文件/应用/本地脚本、本地优先数据不出机;用在哪:local-first工作流统一入口跑脚本开工作区;偏差:社区开源非单人",https://github.com/Flow-Launcher/Flow.Launcher
+2026-09-30,Cronhq,托管式cron定时任务,订阅/免费档未知,Web(跨平台),备选,"确实能跑的定时任务、有执行记录、比裸crontab稳;用在哪:日报/邮件自动化可靠性兜底;⚠️托管非自持、仅作备选",https://www.producthunt.com/
+2026-10-08,OpenBot,开源多agent编排工作台,开源免费,Mac/Windows/iOS 跨平台,主推,"接 Claude/ChatGPT/Grok/OpenCode/自定义agent、分配角色委派工作、本地优先数据留本机;用在哪:WorkBuddy+子智能体+MCP 多 agent 工作流统一编排台;偏差:实时协作或走服务端、非单人社区项目",https://www.producthunt.com/
+2026-10-08,Rill Browser,AI 原生浏览器,免费(商业模式未明),macOS 偏重(Windows 待实测),主推,"⌘E 把任意网页变 Claude Code/Codex 任务、标签按主题、历史按天可搜;用在哪:投放后台/Superset 报表页直接派 agent 取数对账;⚠️偏 macOS、团队维护非单人",https://www.producthunt.com/
+2026-10-08,NoteWorthy,本地AI笔记,免费(无订阅),疑似 Apple 主(Windows 待确认),备选,"全设备本地处理、离线无账号无订阅不上传服务器、自动标题归类;用在哪:随手记灵感/需求点数据不出机;⚠️主平台疑似 Apple、非单人团队作品",https://www.producthunt.com/
+2026-10-09,LosslessCut,开源无损视频裁剪,开源免费(MIT),Windows 原生,主推,"基于 ffmpeg 不重编码、切分/合并零损、本地跑数据不出机;用在哪:短剧素材粗剪+按镜头切片+多分辨率导出,与 HandBrake 压码互补;偏差:社区开源非单人",https://github.com/mifi/losslesscut
+2026-10-09,Lumina,AI 视频剪辑(重组素材),未核实(疑似 SaaS),Web/团队,主推,"不生成、按脚本建议镜头语言+匹配BGM情绪重组已有素材、瞄准专业内容团队;用在哪:短剧宣发/投放素材精剪快速出多版;⚠️收费未核实、偏团队非纯个人",https://www.toutiao.com/article/7693354555710915082
+2026-10-09,Spira AI,自主AI网红+成品短视频,订阅(首发月5折),Web(SaaS),备选,"脚本→选主播→切B-roll→字幕音乐,一张照片+语音克隆人脸声纹;用在哪:多语区投放宣发批量产短视频;⚠️非免费买断/数据自持、人脸克隆合规红线,仅备选",https://openaimaster.ai/best-product-hunt-ai-tools-october-2026
+2026-10-10,OpenPilot,开源桌面AI agent,开源免费(MIT),Windows 优先(早期Mac beta),主推,接任意OpenAI兼容模型(含本地Ollama)、选文件夹读写执行、敏感动作先批准、数据不出机;用在哪:local-first工作流跑本地自动化、敏感数据留本机;⚠️很早期、先在副本上跑,
+2026-10-10,Together Link,coding agent成本路由工具,免费工具(pay per use),跨平台(接Claude Code/Codex),主推,把coding agent指向更便宜开放模型、每次会话出成本收据、简任务丢便宜模型/难任务丢强模型、宣称比全用Opus5.5省50-80%;用在哪:压低agent账单、和价格战+路由价差主线同逻辑;⚠️Together AI托管非纯本地、省50-80%为厂商自陈,
+2026-10-10,Busabase,agent共享系统/工作区,开源免费,跨平台(Cloud/桌面/自托管),备选,人和多个agent共用工作区(表格/文档/skills)、控访问看变更历史;用在哪:WorkBuddy+子智能体+MCP多agent统一记忆资料库;⚠️偏团队早期非单人、自托管才数据自持,
+2026-10-11,OpenCompanion,本地多AI编码CLI会话管理器,开源免费(MIT),Windows/Linux/macOS原生,主推,"开源Tauri无账号无云无遥测、统一看多个Claude Code/Codex/OpenCode会话、等批准时手机同Wi-Fi可Approve/Deny、自带cron式自动化;用在哪:多agent/Codex工作流统一前台+离座手机批批准;未签名首启需允许、手机链路明文HTTP仅本地外出用Tailscale",https://www.producthunt.com/products/opencompanion
+2026-10-11,Databench by Alkera,开源自托管数据协作工作区,开源免费(Apache-2.0),Web自托管浏览器可跑本机SSH,主推,"人+agent同处共享SQL/Python notebook与chat、并行agent、结果可溯源、每动作权限门禁(read/write/destroy/egress/exec)、用自己的Anthropic/OpenAI key数据不出网;用在哪:WorkBuddy+子智能体做数据产品的自托管协作台;YC S26极早期repo 1天、自托管是真运维活、浏览器为主IDE/CLI待出、团队维护非单人",https://github.com/AlkeraAI/Databench
+2026-10-11,Rool,隐私优先云端AI机器,免费层+订阅(€9/€25月),Web跨平台含Windows浏览器/iOS/Android,备选,"欧盟Finland托管私有Linux VM、文件对话记忆一体、不卖数据不训练、可随时导出;用在哪:不想把真实工作交第三方时的隐私AI工作台;云端非本地、免费层约20-25提示/日、无模型自选、日志留30天",https://www.producthunt.com/posts/rool
+2026-10-12,Skreno,浏览器视频工作室(录屏+剪辑+字幕+AI摘要),收费未核实(疑似Freemium Web),Web(跨平台含Windows浏览器),主推,"录屏与剪辑分离轨道、静音切除、动画字幕、AI摘要转写；短剧宣发/投放素材快速出片一步到位；⚠️Web SaaS非本地自持、团队/收费未坐实",https://ustack.app/blogs/producthunt-daily-2026-10-10
+2026-10-12,Onepin,多语配音质检层,订阅(Creator $16/月 Studio $80 Scale $240;免费1000积分),Web(跨平台),备选,"路由33个TTS模型、数字日期展开、400万词发音词典校名、逐行打分自动修复；出海短剧配音质检；⚠️订阅非买断、非英语发音修复仅英语(越南/泰/西/葡不适用)、BYOK需Studio+",https://hunted.space/product/onepin
+2026-10-13,Firetower,自部署coding agent控制面,开源免费(AGPL-3.0),Windows/macOS/iOS/Android原生,主推,"把Claude Code/Codex/Kimi Code跑在你自己服务器、会话持久可手机接管；Rust实现worker仅5MB、自托管免费；契合local-first数据不出本机；⚠️worker非模型宿主、运维归你、需Docker+Node20",https://www.producthunt.com/products/firetower
+2026-10-13,Otter Vault,本地优先API密钥保险库,免费(独立开发者),Chrome扩展(Windows可用)+macOS菜单栏,主推,"浏览器出现新密钥即捕获、AES-256-GCM本地加密、无服务器无账号无同步；防密钥明文散落；独立开发者Krishna Ganga一人做；⚠️未独立审计、忘密不可恢复、Teams版$20/月非本地",https://www.producthunt.com/products/otter-vault
+2026-10-13,OpenSEO,开源MCP SEO/GEO套件,开源免费(MIT自托管)/托管$10月,Web自托管跨平台,备选,"Semrush/Ahrefs替代品、MCP让agent调真实SEO数据、自托管免费带DataForSEO key按量付；OPC内容分发/SEO+GEO可用；⚠️偏大项目(2.2万+stars、Every App维护非≤5人小团队)、数据依赖DataForSEO非自爬",https://github.com/every-app/open-seo
+2026-10-14,Bruno,开源API客户端(Postman替代),开源免费(MIT),Windows/macOS/Linux原生,主推,"Git原生、请求集合存本地进版本控制、不锁云、可接IDE和coding agent；统管Superset/OpenRouter/模型/飞书/邮箱一大把API、数据留本机Git；偏差:独立OSS项目(Hello Pixels)非大厂、团队规模未逐一核实",https://www.producthunt.com/products/bruno
+2026-10-14,Open Analytics,开源AI-Native网站分析替代,开源免费(自托管),Web自托管跨平台,主推,"GA替代、可私有化、agent直查分析数据、数据不出网；short-drama看板外的轻量落地页/小程序分析；偏差:偏web分析与Superset栈重叠、自托管是真运维活",https://www.producthunt.com/products/open-analytics
+2026-10-14,SubtitleGenerator,浏览器AI字幕生成,未核实(浏览器SaaS),Web跨平台,备选,"视频转可发布级AI字幕一站式出稿、免装客户端；出海短剧西/葡/法语区快速配字幕；⚠️浏览器SaaS数据自持性未核实、量大或对白敏感优先本地WhisperDesktop+人工校对",https://www.producthunt.com/products/subtitlegenerator
+2026-10-15,FocusWrite,本地优先写作app,免费/未注明(本地优先),Web App(跨平台),主推,"local-first 写作、专注模式、数据留本机；用在哪:写PRD/日报/需求文档不出云；⚠️PH 10/14新品、团队规模未核实、Web App 自持性看实现",https://www.producthunt.com/
+2026-10-15,Edgee Mod for Claude Code,Claude Code 多模型插件,免费/开源未注明,跨平台(Claude Code),主推,"让 Claude Code 用任意模型、保留 Claude 套餐；用在哪:把 Haiku5.5/DeepSeek 等便宜模型塞进 Claude Code 压账单、与价格战主线同逻辑；⚠️PH 10/14新品、偏dev、团队未核实",https://www.producthunt.com/
+2026-10-15,OpenScreen 2,开源AI视频剪辑,开源免费,跨平台,备选,"录屏+AI agent 自动剪辑；用在哪:短剧宣发/投放素材快速出片；⚠️PH 10/14新品、团队未核实、开源但自持看部署",https://www.producthunt.com/
+2026-10-16,OpenMuse,自托管个人AI助手,开源免费(自托管),跨平台(Web/本地),主推,"开源可自托管、harness无关(Claude Code/Codex/WorkBuddy都可挂)、数据不出机；用在哪:把个人助手/记忆跑本机接本地agent流；⚠️PH 10/15新品、团队规模/许可证未坐实",https://www.producthunt.com/
+2026-10-16,SupoClip,开源AI视频切片,开源免费,跨平台(开源自部署),主推,"长视频自动切viral shorts、批量产短切片、不依赖闭源剪辑SaaS；用在哪:短剧宣发/投放素材快速切片(跟你业务直接相关)；⚠️PH 10/15新品、平台/许可证未完全核实、自部署才数据自持",https://www.producthunt.com/
+2026-10-16,Tiden,coding agent意图校验安全层,未注明(偏开源),跨平台,备选,"agent执行破坏性操作前拦截确认、降低本地agent跑飞风险；用在哪:本机agent(WorkBuddy子智能体/Codex)动敏感动作前护栏；⚠️偏dev、团队/许可证未核实",https://www.producthunt.com/
+2026-10-17,OpenCode 2.0,开源coding agent CLI,开源免费(免费层DeepSeek V4.1 Flash/200K上限),跨平台(CLI含Windows),主推,"开源终端原生多模型可切换、免费层明码标注上限；用在哪:Codex+DeepSeek链路免费兜底/对照位、短任务零成本跑；⚠️开源社区项目非单人、免费层额度规则以官方为准",https://www.producthunt.com/
+2026-10-17,oioi,剪贴板浮层管理器,未注明(装前核实),macOS/Windows/Linux,主推,"Option+V弹出最近复制(文本/代码/图片)不打断心流、轻快；用在哪:多窗口搬数据/SQL片段/素材不切窗口；⚠️2025/4首发非严格新品、定价与本地存储实现未核实",https://www.producthunt.com/posts/oioi
+2026-10-17,MentionBird,AI搜索可见性监控(Ahrefs for AI Search),订阅(Starter首3月$19/月码PH19),Web(SaaS),备选,"追踪品牌在ChatGPT/Gemini/Perplexity回答中的提及+引用源、展示AI实际执行的web搜索词、MCP无限访问；10/16 PH日榜第一529分；用在哪:GEO服务生产工具；⚠️SaaS数据在云端非自持、仅备选",https://www.producthunt.com/posts/mentionbird
+2026-10-18,SignWith,按份付费电子签名工具,按份计费(无月费),Web(SaaS),主推,"签一份付一份、全行业订阅费里的反定价；用在哪:接单签协议/客户确认书/低频签署；⚠️SaaS数据云端不满足自持、合同效力核对其司法辖区",https://www.producthunt.com/
+2026-10-18,Pomerado,网页转稳定API工具,未注明(装前核实),Web/开发工具,主推,"配置一次目标页直接拿结构化JSON、免写爬虫免维护选择器；用在哪:竞品价格监控/投放素材盯梢/报表页抓取原型、配合挣小钱第3条变现；⚠️新发布团队/许可未核实、抓取前确认目标站ToS",https://www.producthunt.com/
+2026-10-18,Tidy Design,开源设计画板工具(Figma平替),开源免费,跨平台(可自部署),备选,"开源可自部署、画板功能克制够画投放素材图；用在那:不想为偶尔素材开Figma账号时；⚠️成熟度与Figma有代差、自部署才数据自持",https://www.producthunt.com/
+2026-10-19,Inbox Zero,开源邮件AI客户端(Superhuman平替),开源免费(自部署),Web/可自部署,主推,"AI分类/草拟回复/批量清理收件箱；用在哪:配合Agent Mail工作流让AI先分拣通知订阅邮件；⚠️团队规模未核实、托管版数据在云端、自部署才自持",https://www.producthunt.com/
+2026-10-19,shim-cli,coding agent出站流量审计与脱敏CLI,开源免费,跨平台CLI,主推,"正打OpenCode泄钥痛点：看agent往外发了什么、能脱敏先脱敏；用在哪:Codex/Claude Code/OpenCode工作目录定期审计key与敏感串；⚠️新发布项目团队与维护活跃度未核实、当审计工具别当安全边界",https://www.producthunt.com/
+2026-10-19,Caldera,Obsidian仓库转公开知识花园,未注明(装前核实),跨平台(Obsidian生态),备选,"不换笔记工具给现有vault加发布层、笔记即网站；用在哪:把笔记公开部分发布做个人IP低成本起点；⚠️开源许可与团队未核实、发布前检查vault敏感内容",https://www.producthunt.com/
+2026-10-20,Snipaste,截图+贴图工具,免费(无广告无遥测),Windows 原生,主推,"独立开发者一人作品、F1智能吸附截图/F3截图钉桌当参照浮层；用在哪:两张报表并排钉屏比对/需求文档贴参考图；经典补推(本周PH无Windows合格新品)",https://zh.snipaste.com/
+2026-10-20,PasteKit,剪贴板本地格式化(JSON/YAML/SQL),未注明(装前核实),未核实(装前确认Windows版),主推,"JSON/YAML/SQL全部本机格式化不碰云、正对密钥/数据泄露主线；用在哪:Superset查询结果/BI配置/API调试格式化粘贴；⚠️PH 10/19新品、平台与团队未核实",https://www.producthunt.com/
+2026-10-20,Beam.win,agent窗口跨机接力,免费试用(后续未明),macOS 专属,备选,"一台Mac跑agent、把终端/浏览器窗口单独拉到另一台Mac、每窗口独立Dock图标；10/19 PH日榜第一221赞；⚠️仅macOS、看理念(agent会话窗口化)等Windows模仿者",https://www.hunted.space/product/beam-win
+2026-10-21,Lazy AWS,键盘驱动开源AWS资源终端,开源免费,跨平台CLI,主推,"终端键盘流一站式浏览/操作AWS资源不开浏览器控制台、开源可审计；用在哪:有AWS资产的团队查日志/开关实例；⚠️依赖AWS生态没用AWS可跳过、团队规模未核实",https://startupcorners.com/digest/product-digest-2026-10-20
+2026-10-21,Framefields,开源code-first视频创作工具,开源(许可待核实),未核实(看README确认Windows),主推,"用代码定义视频流程而非时间轴拖拽、批量生成/参数化改版效率高、适合一版素材×多语区批量生产；用在哪:短剧宣发素材批量化模板化实验；⚠️新项目成熟度未知、Windows支持与许可证发布前先看仓库",https://startupcorners.com/digest/product-digest-2026-10-20
+2026-10-21,Umbra Mail,Gmail聊天流式安静收件箱Chrome扩展,未注明(装前核实),Chrome扩展(Windows可用),备选,"纯前端重排不碰邮件协议、数据不出本机、对邮件焦虑人群思路对路；用在哪:Gmail重度用户收件箱降噪；⚠️仅Chrome+Gmail适用、团队规模未核实",https://www.producthunt.com/
+2026-10-22,croft,TS数据管道(单文件DuckDB),开源(许可待核实),跨平台(Node/TS),主推,"TypeScript写数据管道、数据落单个DuckDB文件、管道即代码即拷即迁、免Airflow/dbt重设施；用在哪:每日CSV/接口数据本地清洗入库再同步、数据不出本机；⚠️新项目成熟度未知、团队未核实",https://toupage.com/trend/producthunt
+2026-10-22,Tiny Little Office,开源隐私迷你办公套件,开源免费,Web(跨平台),主推,"隐私优先、分享链接即文档本身无需账号、数据自持无遥测；用在哪:临时给同事/外包传格式化文档不想开飞书时；⚠️功能极简、团队规模未核实",https://startupcorners.com/digest/product-digest-2026-10-21
+2026-10-22,/dev/null,程序员开源社交网络,开源免费,Web(可自部署),备选,"匿名+技术社区、10/21 PH当日第一447赞、开源可自部署；⚠️社交网络类数据自持存疑(内容存服务端)仅作了解",https://startupcorners.com/digest/product-digest-2026-10-21
+2026-10-23,PrivOS,自托管个人工作台(聊天/文档/看板/AI agent),未注明(装前核实),Docker自部署(Web跨平台),主推,"agent有权限做事与数据不出门放进同一自部署套件、不用Notion+ChatGPT来回搬；用在哪:个人知识库+任务+AI助手一体化Docker起一个就跑；⚠️新项目成熟度未知、团队未核实、先本地试跑再放数据",https://toupage.com/trend/producthunt
+2026-10-23,hibi,开源Obsidian替代笔记,开源(许可待核实),跨平台(装前核实Release),主推,"本地Markdown优先+开源可改、避开Obsidian商业化不确定性、文件格式通用迁移成本低；用在哪:MarkText链路上要双链/图谱时的升级备选；⚠️上架首日信息少、团队与Windows安装包未核实",https://toupage.com/trend/producthunt
+2026-10-23,Hotly,开源付费私信问答工具,开源(许可待核实),Web(自部署完整度未核实),备选,"把创作者付费问答/私信收单环节拆成独立工具、开源可自部署；用在哪:有稳定咨询/答疑需求时按条收费的工具化入口；⚠️支付通道未核实仅作了解",https://toupage.com/trend/producthunt
+2026-10-24,Bits,开源个人agent(跑任务/管待办),开源(许可待核实),跨平台(装前核实Release),主推,"开源可审计、本期安全潮(LiteLLM投毒/32万账户泄露)后能看代码本身成卖点；用在哪:本地跑个人任务编排数据不出门；⚠️上架首日信息少、Windows安装包与团队未核实",https://startupcorners.com/digest/product-digest-2026-10-23
+2026-10-24,Radaric,AI订阅式阅读器(学习编辑口味),未注明(是否开源未核实),Web(跨平台),主推,"不做全家桶信息流做懂你筛选标准的信息漏斗、对每天刷行业源的人是降噪工具；用在哪:AI资讯/短剧行业源喂进去按口味过滤替代手动刷RSS；⚠️新项目成熟度与数据自持性未核实",https://startupcorners.com/digest/product-digest-2026-10-23
+2026-10-24,heal.dev,AI代码审查补充层(抓bug与安全漏洞),未注明(SaaS形态),Web(平台未核实),备选,"卡位AI写代码快人审不过来的验证缺口、与Blacksmith融资同逻辑；用在哪:个人项目上线前跑安全扫描配合PHP漏洞潮自检；⚠️SaaS数据自持性未核实、敏感代码慎传",https://startupcorners.com/digest/product-digest-2026-10-23
+2026-10-25,Inyon,开源手机远程引导coding agent,开源(许可待核实),跨平台(装前核实Release),主推,"只做agent长任务人不在场这一件事、手机批准/补指令、开源可审计；用在哪:多agent批处理挂后台手机收确认；⚠️本月PH新品、Windows支持未核实",https://www.producthunt.com/categories/ai-coding-agents?order=recent_launches
+2026-10-25,LLM SEO EEAT,免费E-E-A-T合规检查器,免费无登录,Web(浏览器即用),主推,"不装全家桶只查AI搜索可信度一问、可当GEO服务获客钩子(免费查付费改)；用在哪:内容站交付前自检；⚠️4评小样本、规则覆盖度未核实",https://producthunt.com/categories/seo-tools
+2026-10-25,Xiryn,开源本地个人agent(隐私优先),开源(许可待核实),跨平台(装前核实Release),备选,"与上期主推Bits同赛道的开源本地agent备选、代码可看数据不出门；用在哪:本地任务编排备胎；⚠️Windows原生与否与团队未核实",https://producthunt.com/categories/openclaw?order=recent_launches
+2026-10-26,Epherem,AI生成代码安全扫描器,免费开源,跨平台(CLI装前核实),主推,"专扫vibe coding产出代码的漏洞、只解决AI代码敢不敢上生产一件事；用在哪:agent批量生成脚本提交前过一遍；⚠️本月PH新品、Windows CLI支持与许可未核实",https://www.producthunt.com/categories/vibe-coding?order=recent_launches
+2026-10-26,buddylist,多coding agent聊天室面板,开源,跨平台(装前核实),主推,"把多个coding agent变聊天室联系人、统一IM界面下指令看进度、不换harness只做面板层；用在哪:WorkBuddy/Codex/DeepSeek多批任务统一收件箱；⚠️本月PH新品、Windows原生未核实",https://www.producthunt.com/categories/vibe-coding?order=recent_launches
+2026-10-26,BOSS Console,常驻agent迷你OS,开源(5.0分1评),跨平台(装前核实),备选,"把agent当常驻进程管理的迷你OS、偏基础设施定位；用在哪:7x24本地agent(监控/定时采集)底座备选；⚠️本月PH新品、平台与成熟度未核实、评分样本小",http://producthunt.com/categories/openclaw?order=recent_launches
+2026-10-27,Llama Windows,本地AI服务器(系统托盘llama.cpp),开源免费,Windows 11原生,主推,"llama.cpp进托盘+一键下模型+共享本地OpenAI兼容API+模型缓存、全系统应用共用本地模型、数据不出机；用在哪:小模型挂本机给脚本和agent跑批兜底、官方API抖动时本地顶上",https://ustack.app/blogs/producthunt-daily-2026-10-25
+2026-10-27,AVP,coding agent用的开源Git替代协议,开源,跨平台(单二进制),主推,"每次landing在main最新头秒级验证、产物仍是普通Git commit、CI从104次/天降到4次、6-8 agent同仓库不丢任务(官方自测口径)；用在哪:多agent并行改同一仓库的版本层、配Claude Code/Codex",https://www.hunted.space/dashboard/avp
+2026-10-27,Openstatus Incident Management,小团队开源事故管理,开源,跨平台(Web自部署),备选,"只做出事后的流程层：Slack宣告事故+自动建频道+时间线+复盘草稿、配合监控与状态页；用在哪:自动化链路(日报推送/跑批采集)故障排障与复盘记录；单人用偏重",https://ustack.app/blogs/producthunt-daily-2026-10-25
+2026-10-28,desigma,开源Rust版Figma替代(离线+本地文件),免费开源,Windows/macOS/Linux原生,主推,"纯Rust+自有渲染器、无账号无订阅、可开.fig迁移、MCP server让agent直接改设计文件、P2P加密协作；用在哪:不吃Figma订阅的独立项目UI+agent改版式；⚠️early alpha未签名、首次打开需手动放行",https://github.com/deepfounder-ai/desigma
+2026-10-28,SurgePix,AI出图分层精修+agent可调用,免费试用(付费价未公开),Web+agent skills,主推,"笔刷重绘/平面图拆图层/文字回填、品牌资产一次上传整套统一、开源agent skills可接Claude Code/Cursor终端出图；用在哪:短剧投放素材批量出图换文案、多语区海报变体；⚠️付费价未公开商用前确认、团队规模未核实",https://surgepix.ai
+2026-10-28,VibeiDE,agent任务并行排队审阅面板,未标注,平台未核实(疑似偏Mac),备选,"只做排队+逐个审阅一件事、PH 10/27日榜第1、作者Patrik Kelemen个人开发；用在哪:多agent并行派任务集中收结果；⚠️Windows可用性装前核实",https://toupage.com/trend/producthunt
+2026-10-29,CleanSlop,vibe-coded应用上线前体检(代码审查+测试),未核实,平台未核实,主推,"只做AI代码上线前把关一件事；背景:实证研究显示vibe-coded代码库维护成本18个月膨胀300%、$5万MVP补到生产级再花$20-50万；用在哪:agent搭的小工具/报表页交付前跑一遍；⚠️平台与定价未核实装前确认Windows可用",https://www.producthunt.com/categories/vibe-coding
+2026-10-29,Rival Workshop,agent skill集中管理书架,未核实,平台未核实,主推,"只解决skill的版本+归档+复用、不抢harness的活；用在哪:管理日报/分析/抓包类skill跨项目复用快速找版本；与用户Skill产品化路线同方法论；⚠️团队规模与Windows可用性未核实",https://www.producthunt.com/categories/ai-coding-agents
+2026-10-29,Jackalope,多coding agent共享工作区(Codex/Claude Code/Grok/OpenCode),未核实,疑似偏Mac,备选,"不做模型只做多agent同处一室的workspace层；与已推OpenCompanion同赛道；用在哪:同时跑多个CLI agent集中管理；⚠️平台支持未核实装前确认",https://www.producthunt.com/categories/vibe-coding
+2026-10-30,Dedica,AI代理视角体检网站(评分+修复指令),未核实,Web,主推,"只回答agent逛不逛得进你的网站一个问题、PH 10/28日榜第1(289票/84评论)、输出可直接交给编码agent的修复指令；用在哪:自建工具站/报表页上线前体检、GEO服务诊断入口；agent流量入口(Search/Gemini接入50+应用)时代的新SEO；⚠️团队规模/定价/开源与否未核实",https://www.producthunt.com/
+2026-10-30,Fraud Blocker,AI广告反作弊(Google/Meta无效流量拦截),SaaS订阅(价未核实),Web,主推,"只做广告无效流量拦截一件事、PH 10/28日榜第4(219票)、拦截bot/点击农场/AI agent点击；用在哪:FB/TT投放账户核对平台口径与实际转化差距、海外投放CPI $5+盘子里无效点击降1个点都是真钱；⚠️订阅制数据不自持、团队与定价未核实",https://www.producthunt.com/
+2026-10-30,Reset Alerts,Codex订阅重置窗口短信提醒,未核实,平台未核实,备选,"功能单一到极致:防错过重置时间白烧额度；用在哪:Codex Plus/DeepSeek后端额度重置加提醒；⚠️团队/定价/平台支持未核实",https://www.producthunt.com/categories/vibe-coding
+2026-10-31,App Store Screenshots,装进coding agent的开源skill自动生成App Store截图,免费开源,CLI skill(Claude Code/Codex/Cursor),主推,"纯skill形态无独立App、把上架素材变成agent一行指令；用在哪:小程序/工具上架或发版本让Codex直接产出截图书、代交付省设计外包；⚠️截图规格与成熟度未实测",https://productlist.info/daily/2026-10-30
+2026-10-31,Claude-Mem,开源Claude跨会话持久记忆(自动压缩历史上下文),免费开源,CLI/GitHub,主推,"专做记忆一件事、本地存储数据自持、GitHub trending验证活跃；用在哪:Claude Code/Codex长周期项目跨会话不丢上下文；⚠️与Claude Code绑定较深、Codex后端兼容待验证",https://github.com/thedotmack/claude-mem
+2026-10-31,bytemail,Swift原生macOS邮件客户端(验证码动效滑出),未核实,macOS专属,备选,"把收验证码做成一秒可达视觉焦点、原生Swift本地数据；⚠️用户是Windows不作主推只作记录、同类验证码优先邮件客户端在Windows侧仍是空白",https://productlist.info/daily/2026-10-30
+2026-11-01,sitesolide,开源MIT CLI把vibe-coded应用一条命令部署到自己服务器(HTTPS+登录+systemd沙箱无Docker),免费开源MIT,CLI(平台未实测Windows),主推,"独立开发者单人项目PH 10/30日榜#20；差异化:补齐agent写码到能安全给别人用的最后一段、数据全在自有服务器；用在哪:Codex写的小工具/报表页部署给同事看；⚠️Windows兼容未实测",https://www.hunted.space/product/sitesolide
+2026-11-01,Tractionwave,投放前AI注意力热图预检创意视觉,未核实,SaaS,主推,"差异化:投放后看数据调素材前移为投放前热图预检；用在哪:短剧投放素材封面/前3秒构图检查、FB/TT信息流素材对口；⚠️定价与团队规模未核实、数据非自持",https://www.producthunt.com/categories/advertising-tools
+2026-11-01,Mudroom,开源工具把coding agent放进VM跑、改动像PR一样逐条review后合并,免费开源,GitHub(平台未核实),备选,"先审后合的agent工作流、防agent乱改文件；用在哪:agent批量改脚本/SQL先沙箱跑人审后落盘；⚠️Windows原生支持未核实",https://www.producthunt.com
+2026-11-02,Hexis,开源Apache-2.0的agent控制面:技能/工具/权限/身份git仓库统一管理(Docker自托管,MCP+UTCP双协议),免费开源Apache-2.0,自托管Docker(Windows可用),主推,"差异化:agent提案自动同步但只有人能merge、工具10秒热更新、连接密钥全程审计；用在本机自动化权限分层(只读/可写分角色发密钥)；⚠️Bevel团队系创业公司非独立开发者、版本尚早(0.19起)",https://github.com/Bevel-Software/Hexis
+2026-11-02,SuperLocalMemory,开源带治理的agent本地记忆库(跨项目隔离/防记忆污染),免费开源,本地优先(Windows未实测),主推,"PH10月末新品；差异化:切中跨项目记忆污染与记忆衰减痛点、数据不出本机；用在多项目并行跑agent时按项目隔离上下文；⚠️新品实现细节与Windows兼容未实测",https://www.producthunt.com/categories/ai-coding-agents
+2026-11-02,Reason,主打成本效率的coding agent(同等任务更低token消耗),未核实,未核实,备选,"PH10/29新品；在单成功任务成本轴上做优化；⚠️详情/定价/平台未核实、观察项",https://www.producthunt.com/categories/ai-coding-agents
+2026-11-03,Flatbread,分享完整agent运行过程而非截图(打包run类PR回放),未核实,未核实,主推,"PH11月上旬在榜新品；解决agent干了什么只能截图证明的信任问题；用在agent批量改动回放/评审/排查；定价/开源/Windows兼容未核实",https://www.producthunt.com
+2026-11-03,Arco,把GitHub和Linear的issue直连进Codex处理,未核实,未核实,主推,"PH11月上旬在榜新品；工单即任务源贴合agent干活人派活流程；用在多仓并行把GitHub issue当任务队列在Codex里消化；同名产品多需认准、定价未核实",https://www.producthunt.com
+2026-11-03,Snipaste,Windows截图+贴图老牌工具(独立开发者Le Liu),免费(Pro收费),Windows/macOS,备选,"贴图钉桌面对照是同类最顺手、极小安装包无广告；用在对数据口径/抄报表布局/比对SQL结果；经典软件非新品、个人免费版足够",https://snipaste.com
