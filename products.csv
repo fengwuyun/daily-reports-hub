@@ -103,3 +103,6 @@
 2026-11-03,Flatbread,分享完整agent运行过程而非截图(打包run类PR回放),未核实,未核实,主推,"PH11月上旬在榜新品；解决agent干了什么只能截图证明的信任问题；用在agent批量改动回放/评审/排查；定价/开源/Windows兼容未核实",https://www.producthunt.com
 2026-11-03,Arco,把GitHub和Linear的issue直连进Codex处理,未核实,未核实,主推,"PH11月上旬在榜新品；工单即任务源贴合agent干活人派活流程；用在多仓并行把GitHub issue当任务队列在Codex里消化；同名产品多需认准、定价未核实",https://www.producthunt.com
 2026-11-03,Snipaste,Windows截图+贴图老牌工具(独立开发者Le Liu),免费(Pro收费),Windows/macOS,备选,"贴图钉桌面对照是同类最顺手、极小安装包无广告；用在对数据口径/抄报表布局/比对SQL结果；经典软件非新品、个人免费版足够",https://snipaste.com
+2026-11-04,GeckIt,多agent看板Kanban(支持Codex/Claude Code/OpenCode),免费开源,未核实(开源项目),主推,"PH11月上旬在榜新品；多agent并行跑任务一张板看状态产出、不用切终端窗口；用在多仓批量任务管理；Windows原生支持未核实",https://www.producthunt.com/categories/ai-coding-agents
+2026-11-04,Inyon,用手机回答coding agent的提问(开源),免费开源,未核实,主推,"PH11月上旬在榜新品；把agent确认环节搬到手机、跑长任务不等人在电脑前；用在夜间批量脚本任务的远程批复；Windows兼容未实测",https://www.producthunt.com/categories/ai-coding-agents
+2026-11-04,Kitbitz,2000+手绘插画全CC0可商用免署名,免费(CC0),网页素材库,备选,"PH11月上旬在榜新品；授权最干净零版权风险；用在门店海报套餐/数字产品PDF配图；网页库非本地工具、与数据自持标准不完全符",https://www.producthunt.com/categories/design-resources
