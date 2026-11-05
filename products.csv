@@ -106,3 +106,6 @@
 2026-11-04,GeckIt,多agent看板Kanban(支持Codex/Claude Code/OpenCode),免费开源,未核实(开源项目),主推,"PH11月上旬在榜新品；多agent并行跑任务一张板看状态产出、不用切终端窗口；用在多仓批量任务管理；Windows原生支持未核实",https://www.producthunt.com/categories/ai-coding-agents
 2026-11-04,Inyon,用手机回答coding agent的提问(开源),免费开源,未核实,主推,"PH11月上旬在榜新品；把agent确认环节搬到手机、跑长任务不等人在电脑前；用在夜间批量脚本任务的远程批复；Windows兼容未实测",https://www.producthunt.com/categories/ai-coding-agents
 2026-11-04,Kitbitz,2000+手绘插画全CC0可商用免署名,免费(CC0),网页素材库,备选,"PH11月上旬在榜新品；授权最干净零版权风险；用在门店海报套餐/数字产品PDF配图；网页库非本地工具、与数据自持标准不完全符",https://www.producthunt.com/categories/design-resources
+2026-11-05,ai-goofish-monitor,开源AI闲鱼监控系统(Playwright+AI语义分析+后台UI),免费开源,Windows可跑(Python+Playwright),主推,"GitHub趋势在榜；AI理解商品语义非关键词匹配、误报低一档、数据全在本机；用在闲鱼捡漏/卖家追踪/价格异动提醒；需登录态、平台风控自担",https://github.com/Usagi-org/ai-goofish-monitor
+2026-11-05,Scrapling,开源Python网页抓取框架(元素自适配/Agent外部信息标准件),免费开源,Windows可跑(Python),主推,"页面结构变了还能自动定位元素；给agent当数据入口比自己写爬虫可靠；用在行情榜单监控/本地agent工具链补数据；常规抓取拿不到再上REA逆向",https://github.com/D4Vinci/Scrapling
+2026-11-05,floci,LocalStack免费开源替代(本地AWS模拟器,同端口4566同API),免费开源(MIT),需Docker,备选,"无账号无token无付费墙、附Azure/GCP/OCI模拟器；用在自建服务部署测试本地模拟云环境；项目较新成熟度未实测",https://github.com/floci-io/floci
