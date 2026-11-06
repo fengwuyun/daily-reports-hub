@@ -109,3 +109,6 @@
 2026-11-05,ai-goofish-monitor,开源AI闲鱼监控系统(Playwright+AI语义分析+后台UI),免费开源,Windows可跑(Python+Playwright),主推,"GitHub趋势在榜；AI理解商品语义非关键词匹配、误报低一档、数据全在本机；用在闲鱼捡漏/卖家追踪/价格异动提醒；需登录态、平台风控自担",https://github.com/Usagi-org/ai-goofish-monitor
 2026-11-05,Scrapling,开源Python网页抓取框架(元素自适配/Agent外部信息标准件),免费开源,Windows可跑(Python),主推,"页面结构变了还能自动定位元素；给agent当数据入口比自己写爬虫可靠；用在行情榜单监控/本地agent工具链补数据；常规抓取拿不到再上REA逆向",https://github.com/D4Vinci/Scrapling
 2026-11-05,floci,LocalStack免费开源替代(本地AWS模拟器,同端口4566同API),免费开源(MIT),需Docker,备选,"无账号无token无付费墙、附Azure/GCP/OCI模拟器；用在自建服务部署测试本地模拟云环境；项目较新成熟度未实测",https://github.com/floci-io/floci
+2026-11-06,worktrunk,开源Rust的Git worktree管理CLI(为多agent并行工作流设计),免费开源,跨平台CLI(Rust单二进制),主推,"11/5 GitHub Trending在榜、11.4k stars；一条命令给每个agent独立worktree互不踩文件、合并前各自验证；用在多Codex/agent批量任务隔离跑",https://github.com/max-sixty/worktrunk
+2026-11-06,MoneyPrinterTurbo,开源AI批量生成高清短视频(文案→素材→字幕→BGM→成片),免费开源(本地部署自带API key),Windows可跑(Python),主推,"老牌项目非新品、11/5单日+617stars回潮；链路最完整可本地部署数据不出机；用在短剧宣发切片解说/投放素材草稿/多语区批量出片实验",https://github.com/harry0703/MoneyPrinterTurbo
+2026-11-06,agent-browser,Vercel Labs开源浏览器自动化CLI(给AI agent当浏览器手脚),免费开源,Rust CLI(Windows可用性装前实测),备选,"11/5 Trending在榜、45.8k stars；与同厂agent-desktop组成桌面+网页两件套；用在agent补登录后台/翻报表页/导出数据环节；⚠️Vercel Labs团队维护非独立开发者",https://github.com/vercel-labs/agent-browser
