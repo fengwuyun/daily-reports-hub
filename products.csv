@@ -112,3 +112,6 @@
 2026-11-06,worktrunk,开源Rust的Git worktree管理CLI(为多agent并行工作流设计),免费开源,跨平台CLI(Rust单二进制),主推,"11/5 GitHub Trending在榜、11.4k stars；一条命令给每个agent独立worktree互不踩文件、合并前各自验证；用在多Codex/agent批量任务隔离跑",https://github.com/max-sixty/worktrunk
 2026-11-06,MoneyPrinterTurbo,开源AI批量生成高清短视频(文案→素材→字幕→BGM→成片),免费开源(本地部署自带API key),Windows可跑(Python),主推,"老牌项目非新品、11/5单日+617stars回潮；链路最完整可本地部署数据不出机；用在短剧宣发切片解说/投放素材草稿/多语区批量出片实验",https://github.com/harry0703/MoneyPrinterTurbo
 2026-11-06,agent-browser,Vercel Labs开源浏览器自动化CLI(给AI agent当浏览器手脚),免费开源,Rust CLI(Windows可用性装前实测),备选,"11/5 Trending在榜、45.8k stars；与同厂agent-desktop组成桌面+网页两件套；用在agent补登录后台/翻报表页/导出数据环节；⚠️Vercel Labs团队维护非独立开发者",https://github.com/vercel-labs/agent-browser
+2026-11-07,VoiceStudio,开源全本地ElevenLabs替代(声音克隆/配音/转写/有声书,646语言),免费开源(本地跑零API费),Windows可跑(Python+需CUDA N卡),主推,"11/6 GitHub Trending单日+2.88万stars爆榜、10.9k stars；数据不出机；用在短剧/视频多语区配音实验底座",https://github.com/debpalash/VoiceStudio
+2026-11-07,Agent-Reach,给AI agent的互联网访问CLI(读搜Twitter/Reddit/YouTube/GitHub/B站/小红书),免费开源(零API费用),跨平台CLI(Python),主推,"11/6 Trending单日+5.8k、9.5k stars；自动选择/安装/诊断访问通道开箱即用；用在市场情报采集与投放趋势盯梢的agent访问层",https://github.com/Panniantong/Agent-Reach
+2026-11-07,Horizon,AI新闻雷达(六源聚合+画像打分+中英双语日报),免费开源,跨平台(Python/自部署),备选,"gitnova周榜(11/2-11/8)+1.4k stars；画像驱动打分只推想看的；用来自部署热点初筛；⚠️需自备数据源token",https://github.com/Thysrael/Horizon
