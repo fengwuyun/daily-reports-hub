@@ -118,3 +118,6 @@
 2026-11-08,dsh-our-free-model,dsh插件的免费前沿模型即装层(免登录免key/本地OpenAI兼容中继),免费开源,跨平台(JS/dsh插件),主推,"11/7 GitHub Trending日榜+1,693；免费通道来自OpenCode Zen与Kilo AI公共网关、用量统计留本机；用在dsh链路低风险批任务挂免费档",https://github.com/Ebony-Vinyl/dsh-our-free-model
 2026-11-08,OpenMausBot,本地优先多agent聊天室(侧栏每个联系人是真coding agent),免费开源,跨平台(TS/Electron),主推,"11/7 Trending日榜+2,044、16k stars；消息式派活/关键步骤人工批准/agent跑本机；与buddylist/GeckIt同赛道但IM形态最直接",https://github.com/milind-soni/OpenMausBot
 2026-11-08,dsh-God,DeepSeek Harness手机原生客户端,免费开源,跨平台(Dart),备选,"13k stars、7天+10k；harness装进口袋、通勤看跑批补指令；⚠️实验性项目成熟度低于主推",https://github.com/ccch1mneyyy/dsh-God
+2026-11-09,T3 Code,AI编程智能体控制面板(多harness统一管理+手机遥控本机agent),免费开源,跨平台(TS/Web/移动端),主推,"11/8 GitHub Trending日榜+1,554、51k stars、Theo(t3)维护；只做控制面板层不碰模型；用在夜间批量任务手机盯进度补指令；与OpenMausBot/GeckIt同赛道",https://github.com/pingdotgg/t3code
+2026-11-09,billion-context,上下文压缩插件(小窗口扛长会话/省5倍token),免费开源,跨平台(装前核对harness兼容),主推,"FOSSY 11/8日榜第2、2k stars、国人开发；100K窗口够用+月级超长单会话；用在高频长会话工作流压token账单；⚠️与自家harness兼容性装前验证",https://github.com/ranxianglei/billion-context
+2026-11-09,voicebox,开源AI语音工作室(克隆/听写/创作),免费开源,跨平台(Windows支持装前看release),备选,"11/8 Trending日榜+378；全开源本地路线；与已推VoiceStudio同赛道但体量更小、作观察备选",https://github.com/jamiepine/voicebox
