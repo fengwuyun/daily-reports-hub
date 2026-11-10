@@ -121,3 +121,6 @@
 2026-11-09,T3 Code,AI编程智能体控制面板(多harness统一管理+手机遥控本机agent),免费开源,跨平台(TS/Web/移动端),主推,"11/8 GitHub Trending日榜+1,554、51k stars、Theo(t3)维护；只做控制面板层不碰模型；用在夜间批量任务手机盯进度补指令；与OpenMausBot/GeckIt同赛道",https://github.com/pingdotgg/t3code
 2026-11-09,billion-context,上下文压缩插件(小窗口扛长会话/省5倍token),免费开源,跨平台(装前核对harness兼容),主推,"FOSSY 11/8日榜第2、2k stars、国人开发；100K窗口够用+月级超长单会话；用在高频长会话工作流压token账单；⚠️与自家harness兼容性装前验证",https://github.com/ranxianglei/billion-context
 2026-11-09,voicebox,开源AI语音工作室(克隆/听写/创作),免费开源,跨平台(Windows支持装前看release),备选,"11/8 Trending日榜+378；全开源本地路线；与已推VoiceStudio同赛道但体量更小、作观察备选",https://github.com/jamiepine/voicebox
+2026-11-10,37studio,自托管AI社媒视频工作站(Claude Code生成视频+9平台分发+草拟回复,v0.11.0),免费开源,自托管(Windows可跑,依赖Claude Code),主推,"aionradar 11/9收录；从生成到分发互动整链自托管、API key自带数据自持；用在短剧宣发素材多平台批量分发；⚠️依赖各平台API政策先小流量试",https://aionradar.com/today
+2026-11-10,hallmark,反AI味设计skill(装进Claude Code/Cursor/Codex治AI slop UI),免费开源,跨平台(skill形态零依赖),主推,"GitHub周榜11/9在榜+6,356、51.3k stars、Nutlope开发；只做一层审美约束让agent出的UI不像AI批量货；用在HTML Demo/页面第一眼去AI味",https://github.com/Nutlope/hallmark
+2026-11-10,daily_stock_analysis,LLM多市场股票智能分析(多源行情+新闻+看板+自动推送+零成本定时跑),免费开源,Windows可跑(Python),备选,"topgit 11/9日榜、68.3k stars、国人开发；每日盯盘点评变定时任务数据自持；⚠️LLM结论当素材不当投资决策",https://github.com/ZhuLinsen/daily_stock_analysis
