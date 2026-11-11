@@ -124,3 +124,6 @@
 2026-11-10,37studio,自托管AI社媒视频工作站(Claude Code生成视频+9平台分发+草拟回复,v0.11.0),免费开源,自托管(Windows可跑,依赖Claude Code),主推,"aionradar 11/9收录；从生成到分发互动整链自托管、API key自带数据自持；用在短剧宣发素材多平台批量分发；⚠️依赖各平台API政策先小流量试",https://aionradar.com/today
 2026-11-10,hallmark,反AI味设计skill(装进Claude Code/Cursor/Codex治AI slop UI),免费开源,跨平台(skill形态零依赖),主推,"GitHub周榜11/9在榜+6,356、51.3k stars、Nutlope开发；只做一层审美约束让agent出的UI不像AI批量货；用在HTML Demo/页面第一眼去AI味",https://github.com/Nutlope/hallmark
 2026-11-10,daily_stock_analysis,LLM多市场股票智能分析(多源行情+新闻+看板+自动推送+零成本定时跑),免费开源,Windows可跑(Python),备选,"topgit 11/9日榜、68.3k stars、国人开发；每日盯盘点评变定时任务数据自持；⚠️LLM结论当素材不当投资决策",https://github.com/ZhuLinsen/daily_stock_analysis
+2026-11-11,Filee,开源离线全格式文件转换器(263格式拖拽即转含图/PDF/Office/视频/音频/电子书/压缩包),免费开源,Windows原生(C#),主推,"githubrepo 11月月榜在榜、2.15万 stars 日增+226；全程离线不上传不装Office零订阅；用在文档格式归一/投放素材转码预处理；数据不出本机",https://github.com/KnifeLemon/Filee
+2026-11-11,sherlock,开源OSINT工具(一个用户名查遍400+社交网络注册情况可导出CSV),免费开源,Windows可跑(Python CLI),主推,"10.67万 stars、11/10日增+3720回潮；只做用户名→全网账号映射一件事、支持批量/限站/代理；用在达人竞品矩阵排查/素材盗用溯源/合作方尽调",https://github.com/sherlock-project/sherlock
+2026-11-11,magpie,菜单栏统一给各编码agent换模型的接线板(Codex挂DeepSeek/Claude Code挂Kimi),免费开源,跨平台(Go),备选,"2.69万 stars 日增+2.6k；只做agent×模型切换层不做模型不做IDE；贴合OP-前缀免费模型工具链压账单；⚠️项目较新与dsh并存兼容装前实测",https://github.com/yetone/magpie
