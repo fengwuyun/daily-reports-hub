@@ -61,9 +61,10 @@
 1) **products.csv**（仓库根目录）：追加本期每个产品一行，表头固定 `date,name,type,price,platform,role,note,source`，role 取「主推」或「备选」；不改动既有行；按日期升序插入。写入用 Python 以 `newline=''` 读写以保留 CRLF。
 2) **AI热点日报/README.md**：在「文档索引」表按日期升序插入一行。
 3) **提交**：`git add` 上述文件 → commit（`daily: AI 热点日报 YYYY-MM-DD`；补发用 `daily: 补发 AI 热点日报 YYYY-MM-DD`；改提示词用 `prompt: 更新 AI 热点日报提示词`）→ push。
-4) **飞书**：把摘要（三条主线 + 资讯标题清单 + 成本地板变化 + 产品与机会 + 全文链接）写到 cwd 下的临时 md，用
+4) **飞书**：**默认发全文**——把该期 `AI热点日报/YYYY-MM-DD.md` 原样复制到 cwd 下的临时文件，用
    `lark-cli im +messages-send --as bot --user-id ou_51e14e4acf0f0a849150e6bcdb1096e4 --markdown @<相对路径>`
-   发送（用户身份缺 `im:message.send_as_user` scope，必须用 bot 身份）。正文过长不发全文，链接代替。
+   发送（用户身份缺 `im:message.send_as_user` scope，必须用 bot 身份）。已实测约 29KB 的完整一期可正常送达，不要自行缩成摘要。
+   仅在接口明确返回长度/内容超限错误时，才降级为「摘要 + GitHub 链接」，并在消息首行注明降级原因。发送后删除临时文件。
 
 # 5. 仓库硬约束
 
